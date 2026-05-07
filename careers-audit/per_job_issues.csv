@@ -1,0 +1,114 @@
+Title,Location,Words,HasAboutRole,HeadingsUsed,Issues
+"Revenue Operations Engineer, Quoting Systems","San Mateo, California, United States - Full-time",508,Y,h2,uses real heading tags (5× <h2> (22–32px)); 2 empty <p></p> filler paragraph(s); 4 trailing <br> in <p>; 4 ALL-CAPS bolded segment(s); uses Title Case section headings (1×)
+Aviation Compliance Lead,"San Mateo, California, United States - Full-time",399,N,h2,uses real heading tags (3× <h2> (22–32px)); missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s); 1 trailing <br> in <p>
+Senior People Analytics Analyst,"San Mateo, California, United States - Full-time",725,Y,p>strong,2 empty <p></p> filler paragraph(s); 1 ALL-CAPS bolded segment(s); uses Title Case section headings (1×); 1 #LI-* signoff(s) in pre-comp
+Senior Technical Support Representative - Japan,"Tokyo, Japan - Full-time",717,N,h1,uses real heading tags (3× <h1> (28–48px)); missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s); 1 #LI-* signoff(s) in pre-comp
+Software Engineer - Cloud Simulation & Full-Stack,"San Mateo, California, United States - Full-time",552,N,h2,uses real heading tags (5× <h2> (22–32px)); missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s); 1 ALL-CAPS bolded segment(s)
+Software Engineer - Cloud Simulation & Full-Stack,"Zurich, Switzerland - Full-time",552,N,h2,uses real heading tags (5× <h2> (22–32px)); missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s); 1 ALL-CAPS bolded segment(s)
+Aviation Regulatory Program Manager,US Remote - Full-time,493,N,h2,uses real heading tags (3× <h2> (22–32px)); missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s)
+Communications Manager,US Remote - Full-time,425,N,h2,uses real heading tags (3× <h2> (22–32px)); missing 'About the role' bold heading; 3 empty <p></p> filler paragraph(s)
+Deployment Coordinator,US Remote - Full-time,422,N,h2,uses real heading tags (4× <h2> (22–32px)); missing 'About the role' bold heading; 4 empty <p></p> filler paragraph(s)
+Deployment Engineer - Southeast,US Remote - Full-time,595,Y,p>strong,section heading run-on (heading concatenated with body); 5 empty <p></p> filler paragraph(s); uses Title Case section headings (1×)
+GTM Data Engineer Intern,"San Mateo, California, United States - Intern",456,Y,p>strong,section heading run-on (heading concatenated with body); 2 empty <p></p> filler paragraph(s); 2 trailing <br> in <p>
+Hardware Technician,"San Mateo, California, United States - Full-time",376,Y,p>strong,section heading run-on (heading concatenated with body); 3 empty <p></p> filler paragraph(s); uses Title Case section headings (1×)
+Hardware Test and Reliability Intern,"San Mateo, California, United States - Intern",565,Y,p>strong,1 empty <p></p> filler paragraph(s); uses Title Case section headings (1×); 1 #LI-* signoff(s) in pre-comp
+Lead Staff Electrical Engineer (F10 Program),"San Mateo, California, United States - Full-time",318,Y,p>strong,section heading run-on (heading concatenated with body); 2 empty <p></p> filler paragraph(s); 1 trailing <br> in <p>
+"Project Manager, Workplace","San Mateo, California, United States - Full-time",491,N,h3,uses real heading tags (2× <h3> (18–28px)); missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s)
+Sales Planning Analyst Intern,"San Mateo, California, United States - Intern",596,Y,p>strong,section heading run-on (heading concatenated with body); 1 empty <p></p> filler paragraph(s); 1 #LI-* signoff(s) in pre-comp
+"Software Engineer - Autonomy Infrastructure, Systems and Tools","San Mateo, California, United States - Full-time",521,N,h2,uses real heading tags (5× <h2> (22–32px)); missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s)
+"Software Engineer - Autonomy Infrastructure, Systems and Tools","Zurich, Switzerland - Full-time",521,N,h2,uses real heading tags (5× <h2> (22–32px)); missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s)
+Software Engineer - Simulation & Robotics Engineer,"San Mateo, California, United States - Full-time",482,N,h3,uses real heading tags (5× <h3> (18–28px)); missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s)
+Software Engineer - Simulation & Robotics Engineer,"Zurich, Switzerland - Full-time",482,N,h3,uses real heading tags (5× <h3> (18–28px)); missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s)
+Software Engineer Intern Fall 2026/Winter 2027,US CA San Mateo - Intern,528,Y,p>strong,section heading run-on (heading concatenated with body); 3 empty <p></p> filler paragraph(s); 1 #LI-* signoff(s) in pre-comp
+Autonomy Engineer - Deep Learning Infrastructure,"San Mateo, California, United States - Full-time",481,N,p>strong,missing 'About the role' bold heading; 1 empty <p></p> filler paragraph(s)
+Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026,"San Mateo, California, United States - Intern",524,Y,p>strong,1 trailing <br> in <p>; 1 #LI-* signoff(s) in pre-comp
+"Director of Product Management, Drone as First Responder (DFR)","San Mateo, California, United States - Full-time",875,Y,p>strong,section heading run-on (heading concatenated with body); 1 #LI-* signoff(s) in pre-comp
+"Director, Growth Marketing - Commercial","San Mateo, California, United States - Full-time",596,Y,p>strong,3 empty <p></p> filler paragraph(s); 8 trailing <br> in <p>
+Field Marketing Event Manager,"San Mateo, California, United States - Full-time",518,Y,h3,uses real heading tags (7× <h3> (18–28px)); uses Title Case section headings (3×)
+GTM Enablement Associate,"San Mateo, California, United States - Full-time",374,Y,p>strong,section heading run-on (heading concatenated with body); 1 empty <p></p> filler paragraph(s)
+Manufacturing Quality Supervisor,"Hayward, California, United States - Full-time",371,Y,p>strong,1 empty <p></p> filler paragraph(s); uses Title Case section headings (1×)
+PhD Autonomy Engineer Intern - Deep Learning or Computer Vision,"San Mateo, California, United States - Intern",521,Y,p>strong,1 trailing <br> in <p>; 1 #LI-* signoff(s) in pre-comp
+PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning),"Zurich, Switzerland - Intern",442,Y,h3,uses real heading tags (3× <h3> (18–28px)); 2 ALL-CAPS bolded segment(s)
+Product Support Engineer,"San Mateo, California, United States - Full-time",581,N,p>strong,missing 'About the role' bold heading; 2 empty <p></p> filler paragraph(s)
+Product Support Engineer Intern,"San Mateo, California, United States - Intern",441,N,p>strong,missing 'About the role' bold heading; 3 empty <p></p> filler paragraph(s)
+"Production Manager, PM Shift","Hayward, California, United States - Full-time",295,Y,p>strong,3 empty <p></p> filler paragraph(s); uses Title Case section headings (3×)
+Senior Autonomy Engineer - Data Curation,"San Mateo, California, United States - Full-time",436,Y,p>strong,4 empty <p></p> filler paragraph(s); uses Title Case section headings (3×)
+Senior Autonomy Engineer - Deep Learning,"San Mateo, California, United States - Full-time",314,Y,p>strong,section heading run-on (heading concatenated with body); 1 empty <p></p> filler paragraph(s)
+Senior Brand Designer (Contract),"San Mateo, California, United States - Full-time",501,Y,p>strong,3 empty <p></p> filler paragraph(s); uses Title Case section headings (1×)
+Senior Buyer,"Hayward, California, United States - Full-time",478,Y,h2,uses real heading tags (2× <h2> (22–32px)); 3 empty <p></p> filler paragraph(s)
+"Senior Product Manager, Platform & Infrastructure","San Mateo, California, United States - Full-time",767,Y,p>strong,section heading run-on (heading concatenated with body); 6 empty <p></p> filler paragraph(s)
+Senior Revenue Operations Manager,"San Mateo, California, United States - Full-time",441,Y,p>strong,2 empty <p></p> filler paragraph(s); uses Title Case section headings (2×)
+Senior Software Engineer - Mobile Platform,"San Mateo, California, United States - Full-time",530,Y,p>strong,3 empty <p></p> filler paragraph(s); uses Title Case section headings (3×)
+"Senior Software Engineer, Full Stack","San Mateo, California, United States - Full-time",623,Y,p>strong,1 trailing <br> in <p>; uses Title Case section headings (1×)
+Senior/Staff Embedded Software Engineer – Camera Systems,"San Mateo, California, United States - Full-time",394,Y,p>strong,4 empty <p></p> filler paragraph(s); uses Title Case section headings (3×)
+Sr/Staff Embedded Software Engineer - Camera Systems,"Tampere, Finland - Full-time",394,Y,p>strong,4 empty <p></p> filler paragraph(s); uses Title Case section headings (3×)
+"Staff Product Manager, Cameras & Sensors","San Mateo, California, United States - Full-time",713,N,p>strong,missing 'About the role' bold heading; 1 #LI-* signoff(s) in pre-comp
+"Staff Product Manager, Platform & Infrastructure","San Mateo, California, United States - Full-time",786,Y,p>strong,section heading run-on (heading concatenated with body); 6 empty <p></p> filler paragraph(s)
+"Staff Software Engineer, Full Stack","San Mateo, California, United States - Full-time",613,N,p>strong,missing 'About the role' bold heading; uses Title Case section headings (1×)
+Success Systems Specialist,US Remote - Full-time,729,Y,p>strong,1 empty <p></p> filler paragraph(s); uses Title Case section headings (2×)
+"Supplier Quality Engineer, Sustaining",Taiwan - Full-time,566,Y,p>strong,1 empty <p></p> filler paragraph(s); 1 #LI-* signoff(s) in pre-comp
+Technical FP&A Analyst,"San Mateo, California, United States - Full-time",359,Y,p>strong,1 empty <p></p> filler paragraph(s); uses Title Case section headings (1×)
+Wireless Hardware Engineer Intern,"San Mateo, California, United States - Intern",551,Y,p>strong,1 empty <p></p> filler paragraph(s); 1 #LI-* signoff(s) in pre-comp
+Workplace Experience Coordinator Part-Time,"Zurich, Switzerland - Part-time",486,Y,p>strong,section heading run-on (heading concatenated with body); 1 empty <p></p> filler paragraph(s)
+Autonomy Engineer - Deep Learning Infrastructure,"Zurich, Switzerland - Full-time",448,Y,p>strong,section heading run-on (heading concatenated with body)
+Autonomy Engineer - Deep Learning Model Acceleration,"Zurich, Switzerland - Full-time",449,Y,p>strong,section heading run-on (heading concatenated with body)
+Autonomy Engineer - Deep Learning Model Acceleration,"San Mateo, California, United States - Full-time",449,Y,p>strong,section heading run-on (heading concatenated with body)
+Autonomy Engineer - Fixed Wing Planning & Controls,"San Mateo, California, United States - Full-time",260,Y,p>strong,uses Title Case section headings (3×)
+Autonomy Engineer Intern Fall 2026,"San Mateo, California, United States - Intern",434,Y,p>strong,1 #LI-* signoff(s) in pre-comp
+Autonomy Software Engineer,"San Mateo, California, United States - Full-time",392,Y,p>strong,section heading run-on (heading concatenated with body)
+Electric Motor / Propulsion Engineer,"San Mateo, California, United States - Full-time",284,Y,p>strong,section heading run-on (heading concatenated with body)
+Engineering Manager - Autonomy,"San Mateo, California, United States - Full-time",338,Y,p>strong,1 trailing <br> in <p>
+Enterprise Account Manager (MoD/ MoI) – EMEA (Finland),"Tampere, Finland - Full-time",602,Y,p>strong,uses Title Case section headings (3×)
+Enterprise Account Manager (MoD/ MoI) – EMEA (Germany),Germany - Full-time,602,Y,p>strong,uses Title Case section headings (3×)
+Enterprise Account Manager (MoD/ MoI) – EMEA (Switzerland),"Zurich, Switzerland - Full-time",602,Y,p>strong,uses Title Case section headings (3×)
+"Enterprise Account Manager, US Army",US Remote - Full-time,471,Y,p>strong,uses Title Case section headings (3×)
+"Enterprise Account Manager, US Navy, US Marine Corps, and IC/SOCOM",US Remote - Full-time,508,Y,p>strong,uses Title Case section headings (3×)
+Field Support Representative,US Remote - Full-time,513,Y,p>strong,uses Title Case section headings (1×)
+"Field Support Representative (Southwest, Remote)",US Remote - Full-time,712,Y,p>strong,2 empty <p></p> filler paragraph(s)
+Hardware Operations Program Manager,"Hayward, California, United States - Full-time",379,Y,p>strong,3 empty <p></p> filler paragraph(s)
+Head of Warehouse & Logistics Operations,US CA Production - Full-time,447,Y,p>strong,2 empty <p></p> filler paragraph(s)
+Mission Success Operations Manager,US Remote - Full-time,452,Y,p>strong,uses Title Case section headings (1×)
+Product Design Engineer (All Levels),"San Mateo, California, United States - Full-time",448,Y,p>strong,section heading run-on (heading concatenated with body)
+Production Supervisor,"Hayward, California, United States - Full-time",294,Y,p>strong,1 empty <p></p> filler paragraph(s)
+"Program Leader, Law Enforcement & Public Safety Training","San Mateo, California, United States - Full-time",559,Y,p>strong,uses Title Case section headings (2×)
+"Program Manager, Major Deployments (Hawaii)","San Mateo, California, United States - Full-time",596,Y,p>strong,3 empty <p></p> filler paragraph(s)
+"Program Manager, Major Deployments (Mid Atlantic)",US Remote - Full-time,603,Y,p>strong,3 empty <p></p> filler paragraph(s)
+"Program Manager, Major Deployments (South East)",US Remote - Full-time,597,Y,p>strong,3 empty <p></p> filler paragraph(s)
+RF Design Engineer,"San Mateo, California, United States - Full-time",391,Y,p>strong,uses Title Case section headings (3×)
+RMA & Repair Program Manager,"Hayward, California, United States - Full-time",422,Y,p>strong,1 empty <p></p> filler paragraph(s)
+Senior Autonomy Engineer - Controls,"San Mateo, California, United States - Full-time",245,Y,p>strong,uses Title Case section headings (3×)
+Senior Autonomy Engineer - Deep Learning,"Zurich, Switzerland - Full-time",314,Y,p>strong,section heading run-on (heading concatenated with body)
+Senior Business Recruiter,"San Mateo, California, United States - Full-time",490,Y,p>strong,uses Title Case section headings (1×)
+Senior Customer Support Representative - India,"Bangalore, India - Full-time",611,Y,p>strong,1 empty <p></p> filler paragraph(s)
+Senior Software Engineer - Security,"San Mateo, California, United States - Full-time",418,Y,p>strong,uses Title Case section headings (2×)
+"Senior Software Engineer, Frontend","San Mateo, California, United States - Full-time",350,Y,p>strong,uses Title Case section headings (3×)
+"Senior Software Engineer, Infrastructure","San Mateo, California, United States - Full-time",400,Y,p>strong,section heading run-on (heading concatenated with body)
+Senior Supplier Quality Engineer,"San Mateo, California, United States - Full-time",434,Y,p>strong,1 empty <p></p> filler paragraph(s)
+Senior Technical Recruiter,"San Mateo, California, United States - Full-time",433,N,p>strong,missing 'About the role' bold heading
+Senior Technical Recruiter - Hardware Operations,"San Mateo, California, United States - Full-time",440,Y,p>strong,section heading run-on (heading concatenated with body)
+Software Engineer - Infrastructure,"San Mateo, California, United States - Full-time",398,Y,p>strong,section heading run-on (heading concatenated with body)
+"Software Engineer, Full Stack","San Mateo, California, United States - Full-time",254,Y,p>strong,uses Title Case section headings (1×)
+Solutions Engineer - Public Safety - East North Central US,US Remote - Full-time,440,Y,p>strong,uses Title Case section headings (3×)
+"Staff Global Supply Manager, Mechanicals","San Mateo, California, United States - Full-time",546,Y,p>strong,1 empty <p></p> filler paragraph(s)
+Staff Technical Recruiter,"San Mateo, California, United States - Full-time",430,Y,p>strong,uses Title Case section headings (1×)
+Supply Chain Intern,"San Mateo, California, United States - Intern",416,Y,p>strong,1 #LI-* signoff(s) in pre-comp
+Technical Support Specialist - West Coast,US Remote - Full-time,620,N,p>strong,missing 'About the role' bold heading
+Autonomy Engineer - Deep Learning,"Zurich, Switzerland - Full-time",366,Y,p>strong,
+Autonomy Engineer - Deep Learning,"San Mateo, California, United States - Full-time",365,Y,p>strong,
+Autonomy Engineer Intern - Deep Learning (Computational Photography),"Zurich, Switzerland or Tampere, Finland - Intern",567,Y,p>strong,
+Autonomy Engineer Intern - Deep Learning (Computational Photography),"San Mateo, California, United States - Intern",567,Y,p>strong,
+"Customer Success Manager, DFR Majors - Northeast",US Remote - Full-time,499,Y,p>strong,
+Electrical Engineer (Sustaining/Validation),"San Mateo, California, United States - Full-time",295,Y,p>strong,
+Electrical Engineer (all levels),"San Mateo, California, United States - Full-time",244,Y,p>strong,
+PCB Layout Engineer,"San Mateo, California, United States - Full-time",346,Y,p>strong,
+Senior Hardware Test and Reliability Engineer,"San Mateo, California, United States - Full-time",539,Y,p>strong,
+Senior NPI Product Quality Engineer,"San Mateo, California, United States - Full-time",391,Y,p>strong,
+Senior Software Engineer - Embedded,"San Mateo, California, United States - Full-time",353,Y,p>strong,
+"Senior Software Engineer, Data Platform","San Mateo, California, United States - Full-time",731,Y,p>strong,
+"Senior Staff Product Manager, Drone Hardware Platforms & Sensors","San Mateo, California, United States - Full-time",508,Y,p>strong,
+Senior Wireless Systems Performance Engineer,"San Mateo, California, United States - Full-time",385,Y,p>strong,
+Software Engineer - Embedded,"San Mateo, California, United States - Full-time",353,Y,p>strong,
+Staff Software Engineer - Embedded,"San Mateo, California, United States - Full-time",353,Y,p>strong,
+"Staff Software Engineer, Frontend","San Mateo, California, United States - Full-time",350,Y,p>strong,
+Systems Integration and Test Engineer (Mid to Senior Level),"San Mateo, California, United States - Full-time",509,Y,p>strong,
+Wireless Software Engineer,"San Mateo, California, United States - Full-time",400,Y,p>strong,
