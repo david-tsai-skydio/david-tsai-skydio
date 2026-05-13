@@ -1,0 +1,562 @@
+[
+  {
+    "uuid": "cc83824e-a1cd-4bc7-9206-7264da9fbd61",
+    "title": "Autonomy Engineer - Deep Learning",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "ae12de71-0010-49d3-b171-c0b257e3b6c1",
+    "title": "Autonomy Engineer - Deep Learning",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "c051266c-3e00-4906-abd0-21f18db56b3f",
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "dcb04687-9b4f-425d-8c37-1111cf3ccf3d",
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "5892ea83-ad5a-480a-bd9f-2409bb0b644e",
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "cd6d8410-419b-4713-8d4d-7eb72b134d5a",
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "20754382-05e7-4cb6-a0f9-0daf9338ba78",
+    "title": "Autonomy Engineer - Fixed Wing Planning & Controls",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "b6be08f7-89c0-48dd-b427-f587f23dbf34",
+    "title": "Autonomy Engineer - ML & DL Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "c84945f0-b8e0-4272-b636-265d6611a8eb",
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "d13e3179-e646-4873-84a6-d492a692bc25",
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "6280ab1d-147d-4f39-8618-a216c18ce0f9",
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "loc": "Zurich, Switzerland - Intern"
+  },
+  {
+    "uuid": "17f6173b-c96f-4b02-a6b5-da0a91ad95e5",
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "a48fe41b-030b-4f11-bf25-df7446151854",
+    "title": "Autonomy Software Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "849ae77c-5ca2-42b5-812b-8b3ad4524a89",
+    "title": "Engineering Manager - Autonomy",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "8d3979a8-c791-4825-8cf4-9b25479b9519",
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "f8225008-00b5-415e-9a48-c9b6eba9363c",
+    "title": "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning)",
+    "loc": "Zurich, Switzerland - Intern"
+  },
+  {
+    "uuid": "58b4cdf6-5630-4dd0-aab3-a1ed4d599466",
+    "title": "Senior Autonomy Engineer - Controls",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "562c2e8f-c366-4149-945e-0f42f4264b5f",
+    "title": "Senior Autonomy Engineer - Data Curation",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "a6973c57-132a-4a0d-b130-02d2bdaecd2a",
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f",
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "9e42a7af-6369-4036-ae6f-6626ee3a4fb3",
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "9fc135c5-7a87-410d-8323-e0f918585ebc",
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "7d7dfadc-c6fd-4958-8d59-004a91bff55e",
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "948bddb5-4679-4c7c-bf57-960a0fd1a7ed",
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "abd4addb-2d11-4207-b3a2-446a09121e39",
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "7a8f3e6c-d576-41af-a81e-bf4fe20da12a",
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "f72f1fa5-d3d6-459e-8722-a94ce92ad1c8",
+    "title": "RF Design Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "f1ecf164-714c-4f1a-b672-d763f5724c03",
+    "title": "Senior Wireless Systems Performance Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "5e1057a4-214f-4783-b676-c1315cfa81ea",
+    "title": "Wireless Hardware Engineer Intern",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "04fde92b-6a2b-4638-adc2-e8fa91cc1a49",
+    "title": "Wireless Software Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "8e50c7da-2868-4383-af1f-920584d537fc",
+    "title": "Electrical Engineer (Sustaining/Validation)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "847c1abe-b3b6-4e97-bc0e-e3f46437287a",
+    "title": "Electric Motor / Propulsion Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "f0c26a3c-d999-4dc2-8812-b3835f633ded",
+    "title": "Electrical Engineer (all levels)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "6d5e666b-a0b7-45d4-a4de-45aef141ce10",
+    "title": "Hardware Technician",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "1bbcf144-7057-4a6e-9d51-4924bfda52b9",
+    "title": "Lead Staff Electrical Engineer (F10 Program)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "eb2f4124-9bd6-49f9-9636-03152c573f7d",
+    "title": "PCB Layout Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "3f02ead1-8efe-4e3f-9c75-625e74ab57d1",
+    "title": "Product Design Engineer (All Levels)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "c0e49670-51ca-461c-b0e2-4a06df01f692",
+    "title": "Senior Hardware Test and Reliability Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "a1a60b27-53a8-455e-b467-712e01c532dc",
+    "title": "Systems Integration and Test Engineer (Mid to Senior Level)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "129a5bad-ca1d-4eda-843b-96f4581f3c43",
+    "title": "Director of Product Management, Drone as First Responder (DFR)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "8d67884d-58f4-41a7-8740-ab65d3c03fa8",
+    "title": "Senior Product Manager, Platform & Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "9cfecc93-4d5f-4ce4-ae40-cb3ff4783559",
+    "title": "Senior Staff Product Manager, Drone Hardware Platforms & Sensors",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "21f27933-a8cb-421f-997f-9d865d372833",
+    "title": "Staff Product Manager, Cameras & Sensors",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "dbd737b2-beed-4917-9948-dde4250929a8",
+    "title": "Staff Product Manager, Platform & Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "bcd3d614-178c-4349-afd4-76476211b7fe",
+    "title": "Senior Software Engineer - Security",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "0f71bdbb-a645-49f6-8890-dd5c052772c3",
+    "title": "Senior Software Engineer, Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "cb958101-ede8-4f50-bf30-b3272d33f25f",
+    "title": "Software Engineer - Infrastructure",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae",
+    "title": "Senior Software Engineer - Embedded",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+    "title": "Senior Software Engineer - Mobile Platform",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "aeaa130d-3e8b-42c5-a805-46f056e62fda",
+    "title": "Senior Software Engineer, Data Platform",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "86cfc7bb-001c-4c1c-b680-160265535a96",
+    "title": "Senior Software Engineer, Frontend",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "5655fbe3-66b0-4951-afdc-3b67f71e6938",
+    "title": "Senior Software Engineer, Full Stack",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "71033170-d9d0-474b-b712-a11e4f11c146",
+    "title": "Senior/Staff Embedded Software Engineer \u2013 Camera Systems",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "ef9f7dd2-5a88-49b4-a507-d5fc9cad565a",
+    "title": "Software Engineer - Embedded",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "title": "Software Engineer Intern Fall 2026/Winter 2027",
+    "loc": "US CA San Mateo - Intern"
+  },
+  {
+    "uuid": "f0020863-db72-480f-916d-375986f86031",
+    "title": "Software Engineer, Full Stack",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "898a9c77-cc20-4ed6-a050-f68e5c15d5c8",
+    "title": "Sr/Staff Embedded Software Engineer - Camera Systems",
+    "loc": "Tampere, Finland - Full-time"
+  },
+  {
+    "uuid": "b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb",
+    "title": "Staff Software Engineer - Embedded",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "54654035-a78a-4e5b-9ebf-ae4067e5a246",
+    "title": "Staff Software Engineer, Frontend",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "379b23ea-14ff-4602-9b79-52d00bb96fda",
+    "title": "Staff Software Engineer, Full Stack",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "b053b0e2-005c-4e77-95f3-26c7354e6095",
+    "title": "Field Support Representative",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357",
+    "title": "Field Support Representative (Southwest, Remote)",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "a4f131a0-4dde-46ce-85a1-c83fc3e0f21e",
+    "title": "Product Support Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "8df0689e-a489-4c72-a1f7-09dfe59745b8",
+    "title": "Product Support Engineer Intern",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0",
+    "title": "Senior Customer Support Representative - India",
+    "loc": "Bangalore, India - Full-time"
+  },
+  {
+    "uuid": "f714e85f-31df-494e-bac4-1dd61d4d6066",
+    "title": "Senior Technical Support Representative - Japan",
+    "loc": "Tokyo, Japan - Full-time"
+  },
+  {
+    "uuid": "3ac81a34-b7fe-4142-9d29-12bcc1376182",
+    "title": "Technical Support Specialist - West Coast",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "28c865cf-6aa4-45d1-ae13-34bb8f6b776b",
+    "title": "IT Technician (Help Desk - Linux Focus)",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "ca17c12d-18df-48dc-83a3-e0d8e06aa451",
+    "title": "Project Manager, Workplace",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "0c1e9360-09dc-4c73-85bc-51aa72afd3ad",
+    "title": "Head of Warehouse & Logistics Operations",
+    "loc": "US CA Production - Full-time"
+  },
+  {
+    "uuid": "e0c94b6c-e08e-499b-aa62-b010993a9200",
+    "title": "Manufacturing Quality Supervisor",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "7836de07-b630-438b-8db5-37a9ee618009",
+    "title": "Production Manager, PM Shift",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "90771bb1-f860-4b49-90ef-3a15bcd1fada",
+    "title": "Production Supervisor",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "5d32766d-990a-4c4c-a8c6-5e934dd8bd38",
+    "title": "Senior Buyer",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "178a7e84-562e-40db-9abd-94bbf29159ca",
+    "title": "Senior NPI Product Quality Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "50567d8d-2903-494f-8e08-7c8ca734dc3a",
+    "title": "Communications Manager",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "00d0bdc5-89ad-4182-8512-ab0a028953f6",
+    "title": "Director, Growth Marketing - Commercial",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "6451be14-d388-4ad1-a4ce-97c36d130c71",
+    "title": "Field Marketing Event Manager",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "cedc0320-0238-4fc0-89b9-8d580ada556d",
+    "title": "Program Leader, Law Enforcement & Public Safety Training",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "5ae7e25f-7da3-4523-a8be-8866aa89e8df",
+    "title": "Senior Brand Designer (Contract)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "0703aaa0-9fcb-4b22-ad8c-b53e74151a72",
+    "title": "Senior People Analytics Analyst",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "16b0647d-a470-4917-9bb9-a95967828edc",
+    "title": "Senior Technical Recruiter",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "737c02d2-f03f-4716-a0c8-e14a0307f8cb",
+    "title": "Senior Technical Recruiter - Hardware Operations",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "c3a4256a-4525-443c-81d0-6f69e7c24805",
+    "title": "Staff Technical Recruiter",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "d023afe5-f19f-42f7-a1dd-aa94a361b86f",
+    "title": "Workplace Experience Coordinator Part-Time",
+    "loc": "Zurich, Switzerland - Part-time"
+  },
+  {
+    "uuid": "b9f9047b-1555-4978-9bff-70eae58a6b17",
+    "title": "Aviation Compliance Lead",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "d73ae64d-5877-4ab6-ad42-0224702f3fba",
+    "title": "Aviation Regulatory Program Manager",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "23721f25-7d5f-45fa-a5fe-d58f9680e1ef",
+    "title": "Customer Success Manager, DFR Majors - Northeast",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "3d4cd6a4-ce4c-4df6-9002-93019d93784e",
+    "title": "Deployment Coordinator",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "6138ba1c-c048-407d-9ea2-7b51a3d38756",
+    "title": "Deployment Engineer - Southeast",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "501a3067-e906-4354-b211-ac70db6accf4",
+    "title": "Mission Success Operations Manager",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "b194dcda-7ff0-4d44-9785-16895a44727f",
+    "title": "Program Manager, Major Deployments (Hawaii)",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "c2651b2d-14c5-4bf7-9a35-90b3c939af10",
+    "title": "Program Manager, Major Deployments (Mid Atlantic)",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "28bb232f-54c4-486b-9bdb-c7855d04661d",
+    "title": "Program Manager, Major Deployments (South East)",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "8de95d05-a601-47e2-8a13-5ba4d7ad428a",
+    "title": "Success Systems Specialist",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "d6f731e8-c530-4123-8b52-0e7cab164887",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Finland)",
+    "loc": "Tampere, Finland - Full-time"
+  },
+  {
+    "uuid": "12e9a494-9a89-457c-9dc7-2ef9ccdba17c",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Germany)",
+    "loc": "Germany - Full-time"
+  },
+  {
+    "uuid": "1d4977a2-c2e7-44ad-820b-253ff8355800",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Switzerland)",
+    "loc": "Zurich, Switzerland - Full-time"
+  },
+  {
+    "uuid": "e69362bc-5891-486e-be75-6bf25187ccf5",
+    "title": "Enterprise Account Manager, US Navy, US Marine Corps, and IC/SOCOM",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "19559b4c-ed09-41eb-b1aa-f000a855b8fe",
+    "title": "Enterprise Account Manager, US Army",
+    "loc": "US Remote - Full-time"
+  },
+  {
+    "uuid": "b90b9b3b-e326-4fb6-85bd-fe52bec5f180",
+    "title": "GTM Data Engineer Intern",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "2b3fea3b-e1b5-4497-9607-e9864019b0e7",
+    "title": "GTM Enablement Associate",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "02d54431-2747-417d-8234-e72c316fed87",
+    "title": "Revenue Operations Engineer, Quoting Systems",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "712900e5-ff75-4e07-8f88-626d4f8ab653",
+    "title": "Sales Planning Analyst Intern",
+    "loc": "San Mateo, California, United States - Intern"
+  },
+  {
+    "uuid": "05e9f029-3a9d-4956-a4c8-e0bc786dd86a",
+    "title": "Senior Revenue Operations Manager",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "eb7fbbdb-3346-4f7f-a202-8bfd3441217a",
+    "title": "Director, Global Supply Management - Mechanicals",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "55b393cf-124c-46f8-bd83-8c62e3ce628b",
+    "title": "Hardware Operations Program Manager",
+    "loc": "Hayward, California, United States - Full-time"
+  },
+  {
+    "uuid": "17b9ecf9-7a47-4811-b035-e1b9a54966aa",
+    "title": "Senior Business Operations Manager",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "b0fb285d-0619-42ee-ad24-d549479deb84",
+    "title": "Senior Supplier Quality Engineer",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "2ffe6453-4a2f-4dfb-94f8-882f731a11ae",
+    "title": "Staff Global Supply Manager, Mechanicals",
+    "loc": "San Mateo, California, United States - Full-time"
+  },
+  {
+    "uuid": "4c4874bf-02da-4ccc-8918-2cca08feaf21",
+    "title": "Supplier Quality Engineer, Sustaining",
+    "loc": "Taiwan - Full-time"
+  },
+  {
+    "uuid": "2d21f482-3224-4906-a1bb-6a64436774cb",
+    "title": "Supply Chain Intern",
+    "loc": "San Mateo, California, United States - Intern"
+  }
+]
