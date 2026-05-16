@@ -1,0 +1,119 @@
+# Appendix — Per-posting formatting characteristics
+
+See [`job-posting-formatting-audit.md`](./job-posting-formatting-audit.md) for the executive summary, prioritized actions, and methodology.
+
+Column definitions are listed in §6 of the parent report.
+
+| # | Title | Location | Words | Section heading style | Has &lt;br&gt; | Empty &lt;p&gt; | Italic/Underline | Bullet end-punctuation | Section labels used |
+|---|-------|----------|------:|----------------------|---------:|----------:|-----------------|-----------------------|---------------------|
+| 1 | Autonomy Engineer - Deep Learning | San Mateo, California, United States - Full-time | 365 | p>strong | 0 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 2 | Autonomy Engineer - Deep Learning | Zurich, Switzerland - Full-time | 366 | p>strong | 1 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 3 | Autonomy Engineer - Deep Learning Infrastructure | Zurich, Switzerland - Full-time | 448 | p>strong | 6 | 0 | – | none | What makes you a good fit: |
+| 4 | Autonomy Engineer - Deep Learning Infrastructure | San Mateo, California, United States - Full-time | 481 | p>strong | 8 | 1 | – | none | What makes you a good fit: |
+| 5 | Autonomy Engineer - Deep Learning Model Acceleration | Zurich, Switzerland - Full-time | 449 | p>strong | 6 | 0 | – | none | What makes you a good fit: |
+| 6 | Autonomy Engineer - Deep Learning Model Acceleration | San Mateo, California, United States - Full-time | 449 | p>strong | 6 | 0 | – | none | What makes you a good fit: |
+| 7 | Autonomy Engineer - Fixed Wing Planning & Controls | San Mateo, California, United States - Full-time | 260 | p>strong | 0 | 0 | – | mixed | About the Role: / How You'll Make an Impact: / What Makes You a Good Fit: |
+| 8 | Autonomy Engineer - ML & DL Infrastructure | San Mateo, California, United States - Full-time | 454 | p>strong | 0 | 3 | – | mixed | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 9 | Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 | San Mateo, California, United States - Intern | 341 | p>strong | 1 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a strong fit: |
+| 10 | Autonomy Engineer Intern - Deep Learning (Computational Photography) | San Mateo, California, United States - Intern | 567 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 11 | Autonomy Engineer Intern - Deep Learning (Computational Photography) | Zurich, Switzerland - Intern | 567 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 12 | Autonomy Engineer Intern - Deep Learning (Computational Photography) | Tampere, Finland - Intern | 567 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 13 | Autonomy Engineer Intern Fall 2026 | San Mateo, California, United States - Intern | 279 | p>strong | 0 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 14 | Autonomy Software Engineer | San Mateo, California, United States - Full-time | 392 | p>strong | 4 | 0 | – | none | What makes you a good fit: |
+| 15 | Engineering Manager - Autonomy | San Mateo, California, United States - Full-time | 338 | p>strong | 1 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 16 | PhD Autonomy Engineer Intern - Deep Learning or Computer Vision | San Mateo, California, United States - Intern | 342 | p>strong | 1 | 0 | – | none | About the role: / How you'll make an impact: / What makes you a strong fit: |
+| 17 | PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) | Zurich, Switzerland - Intern | 442 | h3+p>strong | 0 | 0 | – | period | About the role: / Nice-to-Haves: / How you'll make an impact: / What makes this internship different: / What makes you a strong fit: |
+| 18 | Senior Autonomy Engineer - Controls | San Mateo, California, United States - Full-time | 245 | p>strong | 0 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 19 | Senior Autonomy Engineer - Data Curation | San Mateo, California, United States - Full-time | 436 | p>strong | 0 | 4 | – | period | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: / Nice To Haves: / Working Style: |
+| 20 | Senior Autonomy Engineer - Deep Learning | Zurich, Switzerland - Full-time | 314 | p>strong | 3 | 0 | – | none | How you'll make an impact: / What makes you a good fit: |
+| 21 | Senior Autonomy Engineer - Deep Learning | San Mateo, California, United States - Full-time | 314 | p>strong | 2 | 1 | – | none | How you'll make an impact: / What makes you a good fit: |
+| 22 | Software Engineer - Autonomy Infrastructure, Systems and Tools | San Mateo, California, United States - Full-time | 521 | h2 | 0 | 1 | – | mixed | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 23 | Software Engineer - Autonomy Infrastructure, Systems and Tools | Zurich, Switzerland - Full-time | 521 | h2 | 0 | 1 | – | mixed | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 24 | Software Engineer - Cloud Simulation & Full-Stack | San Mateo, California, United States - Full-time | 552 | h2 | 0 | 2 | – | period | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 25 | Software Engineer - Cloud Simulation & Full-Stack | Zurich, Switzerland - Full-time | 552 | h2 | 0 | 2 | – | period | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 26 | Software Engineer - Simulation & Robotics Engineer | Zurich, Switzerland - Full-time | 482 | h3 | 0 | 2 | – | period | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 27 | Software Engineer - Simulation & Robotics Engineer | San Mateo, California, United States - Full-time | 482 | h3 | 0 | 2 | – | period | About the Role: / Areas of Responsibility: / What You’ll Do: / Qualifications: / Bonus Experience: |
+| 28 | RF Design Engineer | San Mateo, California, United States - Full-time | 391 | p>strong | 0 | 0 | – | mixed | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 29 | Senior Wireless Systems Performance Engineer | San Mateo, California, United States - Full-time | 385 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 30 | Wireless Hardware Engineer Intern | San Mateo, California, United States - Intern | 364 | p>strong | 3 | 0 | – | period | About the role: / What makes you a good fit: |
+| 31 | Wireless Software Engineer | San Mateo, California, United States - Full-time | 400 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 32 | Electrical Engineer (Sustaining/Validation) | San Mateo, California, United States - Full-time | 295 | p>strong | 1 | 0 | – | mixed | About the role: / What makes you a good fit: |
+| 33 | Electric Motor / Propulsion Engineer | San Mateo, California, United States - Full-time | 284 | p>strong | 1 | 0 | em | mixed | How you'll make an impact: / What makes you a good fit: |
+| 34 | Electrical Engineer (all levels) | San Mateo, California, United States - Full-time | 244 | p>strong | 2 | 0 | – | mixed | About the role: / What makes you a good fit: |
+| 35 | Hardware Technician | San Mateo, California, United States - Full-time | 376 | p>strong | 0 | 3 | – | none | How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 36 | Lead Staff Electrical Engineer (F10 Program) | San Mateo, California, United States - Full-time | 318 | p>strong | 1 | 2 | u | mixed | How you'll make an impact: / What makes you a good fit: |
+| 37 | PCB Layout Engineer | San Mateo, California, United States - Full-time | 346 | p>strong | 2 | 0 | – | period | About the role: / What makes you a good fit: |
+| 38 | Product Design Engineer (All Levels) | San Mateo, California, United States - Full-time | 448 | p>strong | 1 | 0 | – | period | How you'll make an impact: / What makes you a good fit: |
+| 39 | Senior Hardware Test and Reliability Engineer | San Mateo, California, United States - Full-time | 539 | p>strong | 0 | 0 | – | none | About the role: / How you will make an impact: / Useful skills and experience: |
+| 40 | Systems Integration and Test Engineer (Mid to Senior Level) | San Mateo, California, United States - Full-time | 509 | p>strong | 1 | 0 | – | mixed | About the role: / How you will make an impact: / Useful skills and experience: |
+| 41 | Director of Product Management, Drone as First Responder (DFR) | San Mateo, California, United States - Full-time | 601 | p>strong | 4 | 0 | – | none | What makes you a good fit: / Bonus points for: |
+| 42 | Senior Product Manager, Platform & Infrastructure | San Mateo, California, United States - Full-time | 767 | p>strong | 1 | 6 | – | period | Location / How you'll make an impact: / What would make you a strong fit: |
+| 43 | Staff Product Manager, Platform & Infrastructure | San Mateo, California, United States - Full-time | 786 | p>strong | 1 | 6 | – | period | Location / How you'll make an impact: / What would make you a strong fit: |
+| 44 | Senior Software Engineer - Security | San Mateo, California, United States - Full-time | 418 | p>strong | 0 | 0 | – | none | About the Role: / How you’ll make an impact: / What makes you a good fit: / Nice to have: |
+| 45 | Senior Software Engineer,  Infrastructure | San Mateo, California, United States - Full-time | 400 | p>strong | 0 | 0 | – | period | How you'll make an impact: / What makes you a good fit: / Bonus points: |
+| 46 | Software Engineer - Infrastructure | San Mateo, California, United States - Full-time | 398 | p>strong | 0 | 0 | – | period | How you'll make an impact: / What makes you a good fit: / Bonus points: |
+| 47 | Senior Software Engineer - Embedded | San Mateo, California, United States - Full-time | 353 | p>strong | 0 | 0 | – | mixed | About the team: / About the role: / How you'll make an impact: / What makes you a good fit: |
+| 48 | Senior Software Engineer - Mobile Platform | San Mateo, California, United States - Full-time | 530 | p>strong | 0 | 3 | – | none | About the Role: / About the Team: / How You’ll Make an Impact: / What Makes You a Good Fit: / Nice To Haves: |
+| 49 | Senior Software Engineer,  Data Platform | San Mateo, California, United States - Full-time | 731 | p>strong | 1 | 0 | – | period | About the role: / Examples of what you’ll help build: / What would make you a good fit: / Why Join Us? |
+| 50 | Senior Software Engineer, Frontend | San Mateo, California, United States - Full-time | 350 | p>strong | 0 | 0 | – | mixed | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: / Bonus Points: |
+| 51 | Senior Software Engineer, Full Stack | San Mateo, California, United States - Full-time | 623 | p>strong | 1 | 0 | u | mixed | About the role: / How you’ll make an impact: / What would make you a good fit: / Bonus points for: |
+| 52 | Senior/Staff Embedded Software Engineer – Camera Systems | San Mateo, California, United States - Full-time | 394 | p>strong | 0 | 4 | – | mixed | About the Role: / About the Team: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 53 | Software Engineer - Embedded | San Mateo, California, United States - Full-time | 353 | p>strong | 0 | 0 | – | mixed | About the team: / About the role: / How you'll make an impact: / What makes you a good fit: |
+| 54 | Software Engineer Intern Fall 2026/Winter 2027 | US CA San Mateo - Intern | 369 | p>strong | 4 | 1 | – | mixed | What makes you a good fit: |
+| 55 | Software Engineer, Full Stack | San Mateo, California, United States - Full-time | 254 | p>strong | 0 | 0 | – | mixed | About the role: / How you’ll make an impact: / What would make you a good fit: / Bonus Points: |
+| 56 | Sr/Staff Embedded Software Engineer - Camera Systems | Tampere, Finland - Full-time | 394 | p>strong | 0 | 4 | – | mixed | About the Role: / About the Team: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 57 | Staff Software Engineer - Embedded | San Mateo, California, United States - Full-time | 353 | p>strong | 0 | 0 | – | mixed | About the team: / About the role: / How you'll make an impact: / What makes you a good fit: |
+| 58 | Staff Software Engineer, Frontend | San Mateo, California, United States - Full-time | 350 | p>strong | 0 | 0 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: / Bonus Points: |
+| 59 | Staff Software Engineer, Full Stack | San Mateo, California, United States - Full-time | 613 | p>strong | 0 | 0 | – | period | How you’ll make an impact: / What would make you a good fit: / Bonus points for: |
+| 60 | Field Support Representative | US Remote - Full-time | 513 | p>strong | 0 | 0 | – | period | About the team: / About the role: / How you’ll make an impact: / What makes you a good fit: |
+| 61 | Field Support Representative (Southwest, Remote) | US Remote - Full-time | 712 | p>strong | 0 | 2 | – | period | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 62 | Manager, Technical Support | US CA San Mateo - Full-time | 780 | p>strong | 0 | 0 | – | mixed | About the team: / About the role: / How you’ll make an impact: / What makes you a good fit: |
+| 63 | Product Support Engineer | San Mateo, California, United States - Full-time | 581 | none | 2 | 2 | – | period | *(none)* |
+| 64 | Product Support Engineer Intern | San Mateo, California, United States - Intern | 441 | none | 2 | 3 | – | period | *(none)* |
+| 65 | Senior Customer Support Representative - India | Bangalore, India - Full-time | 614 | p>strong | 0 | 1 | – | mixed | About the role: / How you’ll make an impact: / What would make you a good fit: |
+| 66 | Senior Technical Support Representative - Japan | Tokyo, Japan - Full-time | 717 | h1 | 2 | 1 | – | mixed | About the role: / How you’ll make an impact: / What would make you a good fit: |
+| 67 | Technical Support Specialist - West Coast | US Remote - Full-time | 620 | none | 0 | 0 | – | mixed | *(none)* |
+| 68 | IT Technician (Help Desk - Linux Focus) | Hayward, California, United States - Full-time | 524 | p>strong | 8 | 2 | – | mixed | About the Role / Location / What You’ll Do / What Makes You a Good Fit |
+| 69 | Full Stack Product Counsel | San Mateo, California, United States - Full-time | 771 | h3 | 0 | 8 | u | none | About the Team / About the Role / How You’ll Make an Impact / What Makes You a Great Fit |
+| 70 | Head of Warehouse & Logistics Operations | US CA Production - Full-time | 447 | p>strong | 1 | 2 | – | mixed | About the role: / What makes you a good fit: |
+| 71 | Manager, Logistics | US CA Production - Full-time | 446 | p>strong | 0 | 2 | style=1 | mixed | About the role: / How you will make an impact: / What makes you a good fit: |
+| 72 | Manufacturing Quality Supervisor | Hayward, California, United States - Full-time | 371 | p>strong | 0 | 1 | – | none | About the role: / How you’ll make an impact: / What makes you a good fit: |
+| 73 | Production Manager, PM Shift | Hayward, California, United States - Full-time | 295 | p>strong | 0 | 3 | – | period | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 74 | Production Supervisor | Hayward, California, United States - Full-time | 294 | p>strong | 2 | 1 | – | none | About the role: / What makes you a good fit: |
+| 75 | Senior Buyer | Hayward, California, United States - Full-time | 478 | h2+p>strong | 0 | 3 | – | mixed | About the role: / How you will make an impact: / What makes you a strong fit: |
+| 76 | Senior NPI Product Quality Engineer | San Mateo, California, United States - Full-time | 391 | p>strong | 0 | 0 | em, u | none | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 77 | Communications Manager | US Remote - Full-time | 425 | h2 | 0 | 3 | – | none | About the role / How you'll make an impact / What makes you a good fit |
+| 78 | Director, Growth Marketing - Commercial | San Mateo, California, United States - Full-time | 596 | p>strong | 8 | 2 | em | mixed | About the role: / Key Responsibilities: / What Success Looks Like: / What Would Make You a Good Fit: / Additional Desired Experience and Skills |
+| 79 | Field Marketing Event Manager | San Mateo, California, United States - Full-time | 518 | h3+p>strong | 0 | 0 | – | period | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: / Customer Summit Planning & Execution / Field Marketing & Trade Show Support / Relationship Building & Internal Collaboration / Required Experience / Preferred Skills & Experience / Interpersonal & Professional Skills / Physical & Travel Requirements |
+| 80 | Senior Brand Designer (Contract) | San Mateo, California, United States - Full-time | 501 | p>strong | 2 | 3 | – | mixed | About the Role: / What you'll do: / What makes you a good fit: |
+| 81 | Senior People Analytics Analyst | San Mateo, California, United States - Full-time | 454 | p>strong | 0 | 0 | – | mixed | About The Role / How You’ll Make an Impact: / What Makes Your a Good Fit: / Preferred Qualifications |
+| 82 | Senior Technical Recruiter | San Mateo, California, United States - Full-time | 433 | p>strong | 2 | 0 | u | none | How you'll make an impact: / What makes you a good fit: |
+| 83 | Senior Technical Recruiter - Hardware Operations | San Mateo, California, United States - Full-time | 440 | p>strong | 4 | 0 | u | none | What makes you a good fit: |
+| 84 | Staff Technical Recruiter | San Mateo, California, United States - Full-time | 430 | p>strong | 0 | 0 | u | period | About the role: / How you’ll make an impact: / What makes you a good fit: |
+| 85 | Workplace Experience Coordinator Part-Time | Zurich, Switzerland - Part-time | 486 | p>strong | 1 | 1 | – | none | How you’ll make an impact: / Workplace Experience & Office Operations / People Operations & HR Coordination / Qualifications / Work Environment |
+| 86 | Aviation Compliance Lead | San Mateo, California, United States - Full-time | 399 | h2 | 1 | 1 | – | period | About the Role / How You’ll Make an Impact / What Makes You a Good Fit |
+| 87 | Aviation Regulatory Program Manager | US Remote - Full-time | 493 | h2 | 0 | 2 | – | period | About the Role / How You’ll Make an Impact / What Makes You a Good Fit |
+| 88 | Customer Success Manager, DFR Majors - Northeast | US Remote - Full-time | 499 | p>strong | 0 | 0 | – | mixed | About the Team: / About the role: / How you’ll make an impact: / What makes you a good fit: |
+| 89 | Deployment Engineer - Southeast | US Remote - Full-time | 595 | p>strong | 0 | 5 | – | mixed | About the Team: / About the role: / How you’ll make an impact: / What makes you a good fit: / Nice to have: |
+| 90 | Mission Success Operations Manager | US Remote - Full-time | 452 | p>strong | 0 | 0 | – | mixed | About the Team: / About the role: / How you’ll make an impact: / What makes you a good fit |
+| 91 | Program Manager, Major Deployments (Hawaii) | San Mateo, California, United States - Full-time | 596 | p>strong | 0 | 3 | – | mixed | About the role: / How you'll make an impact: / What Makes You A Good Fit: |
+| 92 | Program Manager, Major Deployments (Mid Atlantic) | US Remote - Full-time | 603 | p>strong | 0 | 3 | – | mixed | About the role: / How you'll make an impact: / What Makes You A Good Fit: |
+| 93 | Program Manager, Major Deployments (South East) | US Remote - Full-time | 597 | p>strong | 0 | 3 | – | mixed | About the role: / How you'll make an impact: / What Makes You A Good Fit: |
+| 94 | Success Systems Specialist | US Remote - Full-time | 729 | p>strong | 0 | 1 | – | period | About the Role: / Why This Role Matters Now: / How You’ll Make an Impact: / Build Automation & Intelligence into Mission Success / Customer Digital Experience / Cross-Functional Architecture & Governance / Scalability & Cost Avoidance / What makes you a good fit: |
+| 95 | Enterprise Account Manager (MoD/ MoI) – EMEA (Finland) | Tampere, Finland - Full-time | 602 | p>strong | 2 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 96 | Enterprise Account Manager (MoD/ MoI) – EMEA (Germany) | Germany - Full-time | 602 | p>strong | 2 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 97 | Enterprise Account Manager (MoD/ MoI) – EMEA (Switzerland) | Zurich, Switzerland - Full-time | 602 | p>strong | 2 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 98 | Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM | US Remote - Full-time | 508 | p>strong | 0 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 99 | Enterprise Account Manager, US Army | US Remote - Full-time | 474 | p>strong | 0 | 0 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: |
+| 100 | GTM Data Engineer Intern | San Mateo, California, United States - Intern | 456 | p>strong | 3 | 2 | – | mixed | How you'll make an impact: / What makes you a good fit: / Bonus points: / What you’ll gain: |
+| 101 | GTM Enablement Associate | San Mateo, California, United States - Full-time | 374 | p>strong | 2 | 1 | – | none | What makes you a good fit: / Preferred Qualifications: |
+| 102 | Revenue Operations Engineer, Quoting Systems | San Mateo, California, United States - Full-time | 508 | h2+p>strong | 4 | 2 | – | mixed | About the Role: / What you’ll drive (scope): / Day-to-day responsibilities: / Tech stack you’ll work with: / What you’ll bring: / Reporting & Working Model: |
+| 103 | Sales Planning Analyst Intern | San Mateo, California, United States - Intern | 409 | p>strong | 1 | 1 | – | none | How You’ll Make an Impact: / What Would Make You a Good Fit: |
+| 104 | Senior Revenue Operations Manager | San Mateo, California, United States - Full-time | 441 | p>strong | 0 | 2 | – | none | About the Role: / How You’ll Make an Impact: / What Makes You a Good Fit: / Preferred Qualifications: |
+| 105 | Director, Global Supply Management - Mechanicals | San Mateo, California, United States - Full-time | 612 | p>strong | 0 | 3 | – | - | About the role: / What you will do: / Desired Qualifications: |
+| 106 | Hardware Operations Program Manager | Hayward, California, United States - Full-time | 379 | p>strong | 0 | 3 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 107 | Senior Business Operations Manager | San Mateo, California, United States - Full-time | 506 | h3+p>strong | 0 | 3 | – | none | About the Role: / How you'll make an impact: / What makes you a good fit: / Strategic Sourcing: / Cost Management / Strategy & Operations |
+| 108 | Senior Supplier Quality Engineer | San Mateo, California, United States - Full-time | 434 | p>strong | 2 | 1 | – | mixed | About the role: / What makes you a good fit: |
+| 109 | Staff Global Supply Manager,  Mechanicals | San Mateo, California, United States - Full-time | 546 | p>strong | 1 | 1 | – | mixed | About the role: / What makes you a good fit: |
+| 110 | Supplier Quality Engineer, Sustaining | Taiwan - Full-time | 566 | p>strong | 0 | 1 | – | mixed | About the role: / How you'll make an impact: / What makes you a good fit: |
+| 111 | Supply Chain Intern | San Mateo, California, United States - Intern | 229 | p>strong | 3 | 0 | – | mixed | About the role: / What makes you a good fit: |
