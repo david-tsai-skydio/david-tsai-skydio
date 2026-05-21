@@ -1,0 +1,1671 @@
+[
+  {
+    "title": "Director, Growth Marketing - Commercial",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "00d0bdc5-89ad-4182-8512-ab0a028953f6",
+    "issues": [
+      "uses 8 <br>",
+      "2 empty <p>",
+      "mixes ':' / no ':' in section headers (4 vs 1)"
+    ],
+    "text_count": 4467,
+    "n_li": 23,
+    "n_br": 8,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Revenue Operations Engineer, Quoting Systems",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "02d54431-2747-417d-8234-e72c316fed87",
+    "issues": [
+      "uses real heading tags (h2)",
+      "uses 4 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 3732,
+    "n_li": 25,
+    "n_br": 4,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Wireless Software Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "04fde92b-6a2b-4638-adc2-e8fa91cc1a49",
+    "issues": [],
+    "text_count": 2800,
+    "n_li": 12,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Senior Revenue Operations Manager",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "05e9f029-3a9d-4956-a4c8-e0bc786dd86a",
+    "issues": [
+      "2 empty <p>"
+    ],
+    "text_count": 3312,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer, Full Stack",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "067e1f47-9fba-4abf-b986-874d4d569706",
+    "issues": [],
+    "text_count": 2248,
+    "n_li": 13,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior People Analytics Analyst",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "0703aaa0-9fcb-4b22-ad8c-b53e74151a72",
+    "issues": [
+      "mixes ':' / no ':' in section headers (2 vs 2)"
+    ],
+    "text_count": 3356,
+    "n_li": 16,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Head of Warehouse & Logistics Operations",
+    "location": "US CA Production - Full-time",
+    "id": "0c1e9360-09dc-4c73-85bc-51aa72afd3ad",
+    "issues": [
+      "uses 1 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 3208,
+    "n_li": 20,
+    "n_br": 1,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer, Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "0f71bdbb-a645-49f6-8890-dd5c052772c3",
+    "issues": [],
+    "text_count": 2660,
+    "n_li": 13,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Director of Product Management, Drone as First Responder (DFR)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "129a5bad-ca1d-4eda-843b-96f4581f3c43",
+    "issues": [
+      "uses 4 <br>"
+    ],
+    "text_count": 4112,
+    "n_li": 20,
+    "n_br": 4,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 5
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) – EMEA (Germany)",
+    "location": "Germany - Full-time",
+    "id": "12e9a494-9a89-457c-9dc7-2ef9ccdba17c",
+    "issues": [
+      "uses 2 <br>",
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 4742,
+    "n_li": 22,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Technical Recruiter",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "16b0647d-a470-4917-9bb9-a95967828edc",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 3005,
+    "n_li": 14,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Senior NPI Product Quality Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "178a7e84-562e-40db-9abd-94bbf29159ca",
+    "issues": [],
+    "text_count": 2797,
+    "n_li": 19,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Business Operations Manager",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "17b9ecf9-7a47-4811-b035-e1b9a54966aa",
+    "issues": [
+      "uses real heading tags (h3)",
+      "3 empty <p>"
+    ],
+    "text_count": 3703,
+    "n_li": 26,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "17f6173b-c96f-4b02-a6b5-da0a91ad95e5",
+    "issues": [],
+    "text_count": 1850,
+    "n_li": 8,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Enterprise Account Manager, US Army",
+    "location": "US Remote - Full-time",
+    "id": "19559b4c-ed09-41eb-b1aa-f000a855b8fe",
+    "issues": [],
+    "text_count": 3450,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Lead Staff Electrical Engineer (F10 Program)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "1bbcf144-7057-4a6e-9d51-4924bfda52b9",
+    "issues": [
+      "uses 1 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 2165,
+    "n_li": 15,
+    "n_br": 1,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 2
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) – EMEA (Switzerland)",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "1d4977a2-c2e7-44ad-820b-253ff8355800",
+    "issues": [
+      "uses 2 <br>",
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 4742,
+    "n_li": 22,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Fixed Wing Planning & Controls",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "20754382-05e7-4cb6-a0f9-0daf9338ba78",
+    "issues": [],
+    "text_count": 1775,
+    "n_li": 12,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Customer Success Manager, DFR Majors - Northeast",
+    "location": "US Remote - Full-time",
+    "id": "23721f25-7d5f-45fa-a5fe-d58f9680e1ef",
+    "issues": [],
+    "text_count": 3448,
+    "n_li": 19,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 6
+  },
+  {
+    "title": "IT Technician (Help Desk - Linux Focus)",
+    "location": "Hayward, California, United States - Full-time",
+    "id": "28c865cf-6aa4-45d1-ae13-34bb8f6b776b",
+    "issues": [
+      "uses 8 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 3777,
+    "n_li": 42,
+    "n_br": 8,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Manager, Technical Support",
+    "location": "US CA San Mateo - Full-time",
+    "id": "2b312ffb-26c3-4b7f-8904-acbc4e51934b",
+    "issues": [
+      "mixes ':' / no ':' in section headers (4 vs 1)"
+    ],
+    "text_count": 5370,
+    "n_li": 22,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "GTM Enablement Associate",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "2b3fea3b-e1b5-4497-9607-e9864019b0e7",
+    "issues": [
+      "uses 2 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 2793,
+    "n_li": 18,
+    "n_br": 2,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Supply Chain Intern",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "2d21f482-3224-4906-a1bb-6a64436774cb",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 1643,
+    "n_li": 8,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Global Supply Manager, Mechanicals",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "2ffe6453-4a2f-4dfb-94f8-882f731a11ae",
+    "issues": [
+      "uses 1 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 4117,
+    "n_li": 17,
+    "n_br": 1,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Software Engineer, Full Stack",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "379b23ea-14ff-4602-9b79-52d00bb96fda",
+    "issues": [],
+    "text_count": 4349,
+    "n_li": 16,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Technical Support Specialist - West Coast",
+    "location": "US Remote - Full-time",
+    "id": "3ac81a34-b7fe-4142-9d29-12bcc1376182",
+    "issues": [],
+    "text_count": 4237,
+    "n_li": 19,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 5
+  },
+  {
+    "title": "Product Design Engineer (All Levels)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "3f02ead1-8efe-4e3f-9c75-625e74ab57d1",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 3096,
+    "n_li": 16,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Supplier Quality Engineer, Sustaining",
+    "location": "Taiwan - Full-time",
+    "id": "4c4874bf-02da-4ccc-8918-2cca08feaf21",
+    "issues": [
+      "1 empty <p>"
+    ],
+    "text_count": 3813,
+    "n_li": 13,
+    "n_br": 0,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Mission Success Operations Manager",
+    "location": "US Remote - Full-time",
+    "id": "501a3067-e906-4354-b211-ac70db6accf4",
+    "issues": [
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 3005,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Communications Manager",
+    "location": "US Remote - Full-time",
+    "id": "50567d8d-2903-494f-8e08-7c8ca734dc3a",
+    "issues": [
+      "uses real heading tags (h2)",
+      "3 empty <p>"
+    ],
+    "text_count": 3085,
+    "n_li": 12,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Software Engineer, Frontend",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "54654035-a78a-4e5b-9ebf-ae4067e5a246",
+    "issues": [],
+    "text_count": 2426,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Hardware Operations Program Manager",
+    "location": "Hayward, California, United States - Full-time",
+    "id": "55b393cf-124c-46f8-bd83-8c62e3ce628b",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 2893,
+    "n_li": 12,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer, Full Stack",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "5655fbe3-66b0-4951-afdc-3b67f71e6938",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 4218,
+    "n_li": 13,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "5892ea83-ad5a-480a-bd9f-2409bb0b644e",
+    "issues": [
+      "uses 6 <br>"
+    ],
+    "text_count": 3200,
+    "n_li": 17,
+    "n_br": 6,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Autonomy Engineer - Controls",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "58b4cdf6-5630-4dd0-aab3-a1ed4d599466",
+    "issues": [],
+    "text_count": 1692,
+    "n_li": 9,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Brand Designer (Contract)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "5ae7e25f-7da3-4523-a8be-8866aa89e8df",
+    "issues": [
+      "uses 2 <br>",
+      "3 empty <p>",
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 3580,
+    "n_li": 22,
+    "n_br": 2,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Buyer",
+    "location": "Hayward, California, United States - Full-time",
+    "id": "5d32766d-990a-4c4c-a8c6-5e934dd8bd38",
+    "issues": [
+      "uses real heading tags (h2)",
+      "3 empty <p>"
+    ],
+    "text_count": 3441,
+    "n_li": 22,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 2,
+    "headings_via_bold_p": 1,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Deployment Engineer - Southeast",
+    "location": "US Remote - Full-time",
+    "id": "6138ba1c-c048-407d-9ea2-7b51a3d38756",
+    "issues": [
+      "5 empty <p>"
+    ],
+    "text_count": 4127,
+    "n_li": 23,
+    "n_br": 0,
+    "n_empty_p": 5,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "location": "Zurich, Switzerland or Tampere, Finland - Intern",
+    "id": "6280ab1d-147d-4f39-8618-a216c18ce0f9",
+    "issues": [],
+    "text_count": 3827,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer - Embedded",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae",
+    "issues": [],
+    "text_count": 2382,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 3
+  },
+  {
+    "title": "Hardware Technician",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "6d5e666b-a0b7-45d4-a4de-45aef141ce10",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 2616,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior/Staff Embedded Software Engineer – Camera Systems",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "71033170-d9d0-474b-b712-a11e4f11c146",
+    "issues": [
+      "4 empty <p>"
+    ],
+    "text_count": 2806,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 4,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Sales Planning Analyst Intern",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "712900e5-ff75-4e07-8f88-626d4f8ab653",
+    "issues": [
+      "uses 1 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 2890,
+    "n_li": 18,
+    "n_br": 1,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Technical Recruiter - Hardware Operations",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "737c02d2-f03f-4716-a0c8-e14a0307f8cb",
+    "issues": [
+      "uses 4 <br>"
+    ],
+    "text_count": 3081,
+    "n_li": 13,
+    "n_br": 4,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Production Manager, PM Shift",
+    "location": "Hayward, California, United States - Full-time",
+    "id": "7836de07-b630-438b-8db5-37a9ee618009",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 2168,
+    "n_li": 11,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "7a8f3e6c-d576-41af-a81e-bf4fe20da12a",
+    "issues": [
+      "uses real heading tags (h3)",
+      "2 empty <p>"
+    ],
+    "text_count": 3438,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior RF Design Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "7bd047de-b65b-42b2-a2bf-7d33ceabd083",
+    "issues": [
+      "2 empty <p>"
+    ],
+    "text_count": 4638,
+    "n_li": 25,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "7d7dfadc-c6fd-4958-8d59-004a91bff55e",
+    "issues": [
+      "uses real heading tags (h2)",
+      "2 empty <p>"
+    ],
+    "text_count": 4129,
+    "n_li": 26,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Director, Product Management, Drone as First Responder (DFR)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "7ef6359b-6454-4f91-871f-b33961585086",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 4120,
+    "n_li": 20,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 5
+  },
+  {
+    "title": "Engineering Manager - Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "849ae77c-5ca2-42b5-812b-8b3ad4524a89",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 2343,
+    "n_li": 10,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer, Frontend",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "86cfc7bb-001c-4c1c-b680-160265535a96",
+    "issues": [],
+    "text_count": 2456,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Sr/Staff Embedded Software Engineer - Camera Systems",
+    "location": "Tampere, Finland - Full-time",
+    "id": "898a9c77-cc20-4ed6-a050-f68e5c15d5c8",
+    "issues": [
+      "4 empty <p>"
+    ],
+    "text_count": 2806,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 4,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "8d3979a8-c791-4825-8cf4-9b25479b9519",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 2243,
+    "n_li": 9,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Senior Product Manager, Platform & Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "8d67884d-58f4-41a7-8740-ab65d3c03fa8",
+    "issues": [
+      "uses 1 <br>",
+      "6 empty <p>",
+      "mixes ':' / no ':' in section headers (2 vs 1)"
+    ],
+    "text_count": 5602,
+    "n_li": 15,
+    "n_br": 1,
+    "n_empty_p": 6,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Success Systems Specialist",
+    "location": "US Remote - Full-time",
+    "id": "8de95d05-a601-47e2-8a13-5ba4d7ad428a",
+    "issues": [
+      "1 empty <p>",
+      "mixes ':' / no ':' in section headers (4 vs 4)"
+    ],
+    "text_count": 5439,
+    "n_li": 28,
+    "n_br": 0,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 8,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Product Support Engineer Intern",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "8df0689e-a489-4c72-a1f7-09dfe59745b8",
+    "issues": [
+      "uses 2 <br>",
+      "3 empty <p>"
+    ],
+    "text_count": 3136,
+    "n_li": 15,
+    "n_br": 2,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Electrical Engineer (Sustaining/Validation)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "8e50c7da-2868-4383-af1f-920584d537fc",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 2062,
+    "n_li": 14,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "948bddb5-4679-4c7c-bf57-960a0fd1a7ed",
+    "issues": [
+      "uses real heading tags (h2)",
+      "2 empty <p>"
+    ],
+    "text_count": 4129,
+    "n_li": 26,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Field Support Representative (Southwest, Remote)",
+    "location": "US Remote - Full-time",
+    "id": "9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357",
+    "issues": [
+      "2 empty <p>"
+    ],
+    "text_count": 5040,
+    "n_li": 22,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 13
+  },
+  {
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "9e42a7af-6369-4036-ae6f-6626ee3a4fb3",
+    "issues": [
+      "uses real heading tags (h2)",
+      "1 empty <p>"
+    ],
+    "text_count": 3937,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "9fc135c5-7a87-410d-8323-e0f918585ebc",
+    "issues": [
+      "uses real heading tags (h2)",
+      "1 empty <p>"
+    ],
+    "text_count": 3937,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Systems Integration and Test Engineer (Mid to Senior Level)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "a1a60b27-53a8-455e-b467-712e01c532dc",
+    "issues": [],
+    "text_count": 3894,
+    "n_li": 14,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Software Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "a48fe41b-030b-4f11-bf25-df7446151854",
+    "issues": [
+      "uses 4 <br>"
+    ],
+    "text_count": 2778,
+    "n_li": 12,
+    "n_br": 4,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Product Support Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "a4f131a0-4dde-46ce-85a1-c83fc3e0f21e",
+    "issues": [
+      "uses 2 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 4204,
+    "n_li": 22,
+    "n_br": 2,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f",
+    "issues": [
+      "uses 2 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 2166,
+    "n_li": 13,
+    "n_br": 2,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "a6973c57-132a-4a0d-b130-02d2bdaecd2a",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 2167,
+    "n_li": 13,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "abd4addb-2d11-4207-b3a2-446a09121e39",
+    "issues": [
+      "uses real heading tags (h3)",
+      "2 empty <p>"
+    ],
+    "text_count": 3438,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 5,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "ae12de71-0010-49d3-b171-c0b257e3b6c1",
+    "issues": [],
+    "text_count": 2554,
+    "n_li": 14,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Senior Software Engineer, Data Platform",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "aeaa130d-3e8b-42c5-a805-46f056e62fda",
+    "issues": [
+      "uses 1 <br>",
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 5067,
+    "n_li": 20,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Field Support Representative",
+    "location": "US Remote - Full-time",
+    "id": "b053b0e2-005c-4e77-95f3-26c7354e6095",
+    "issues": [],
+    "text_count": 3703,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Program Manager, Major Deployments (Hawaii)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "b194dcda-7ff0-4d44-9785-16895a44727f",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 4158,
+    "n_li": 14,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Software Engineer - Embedded",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb",
+    "issues": [],
+    "text_count": 2381,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 3
+  },
+  {
+    "title": "Hardware Engineering Program Manager",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "b49e6784-2183-4de4-a0a1-7661203c254a",
+    "issues": [
+      "uses real heading tags (h2,h3)",
+      "3 empty <p>"
+    ],
+    "text_count": 3851,
+    "n_li": 23,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 8,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - ML & DL Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "b6be08f7-89c0-48dd-b427-f587f23dbf34",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 3153,
+    "n_li": 13,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "GTM Data Engineer Intern",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "b90b9b3b-e326-4fb6-85bd-fe52bec5f180",
+    "issues": [
+      "uses 3 <br>",
+      "2 empty <p>"
+    ],
+    "text_count": 3190,
+    "n_li": 18,
+    "n_br": 3,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Aviation Compliance Lead",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "b9f9047b-1555-4978-9bff-70eae58a6b17",
+    "issues": [
+      "uses real heading tags (h2)",
+      "uses 1 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 2958,
+    "n_li": 15,
+    "n_br": 1,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Customer Support Representative - India",
+    "location": "Bangalore, India - Full-time",
+    "id": "bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0",
+    "issues": [
+      "1 empty <p>"
+    ],
+    "text_count": 4389,
+    "n_li": 22,
+    "n_br": 0,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer - Security",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "bcd3d614-178c-4349-afd4-76476211b7fe",
+    "issues": [],
+    "text_count": 2954,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "location": "Zurich, Switzerland - Full-time",
+    "id": "c051266c-3e00-4906-abd0-21f18db56b3f",
+    "issues": [
+      "uses 6 <br>"
+    ],
+    "text_count": 3196,
+    "n_li": 17,
+    "n_br": 6,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Hardware Test and Reliability Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "c0e49670-51ca-461c-b0e2-4a06df01f692",
+    "issues": [],
+    "text_count": 3892,
+    "n_li": 12,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Program Manager, Major Deployments (Mid Atlantic)",
+    "location": "US Remote - Full-time",
+    "id": "c2651b2d-14c5-4bf7-9a35-90b3c939af10",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 4217,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Technical Recruiter",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "c3a4256a-4525-443c-81d0-6f69e7c24805",
+    "issues": [],
+    "text_count": 2982,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "c84945f0-b8e0-4272-b636-265d6611a8eb",
+    "issues": [
+      "uses 1 <br>"
+    ],
+    "text_count": 2193,
+    "n_li": 8,
+    "n_br": 1,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Full Stack Product Counsel",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "c9e40dab-ae7d-4034-a335-b3e05d419672",
+    "issues": [
+      "uses real heading tags (h3)",
+      "3 empty <p>"
+    ],
+    "text_count": 3345,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 4,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Software Engineer - Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "cb958101-ede8-4f50-bf30-b3272d33f25f",
+    "issues": [],
+    "text_count": 2648,
+    "n_li": 13,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "cc83824e-a1cd-4bc7-9206-7264da9fbd61",
+    "issues": [],
+    "text_count": 2554,
+    "n_li": 14,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "cd6d8410-419b-4713-8d4d-7eb72b134d5a",
+    "issues": [
+      "uses 6 <br>"
+    ],
+    "text_count": 3196,
+    "n_li": 17,
+    "n_br": 6,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Workplace Experience Coordinator Part-Time",
+    "location": "Zurich, Switzerland - Part-time",
+    "id": "d023afe5-f19f-42f7-a1dd-aa94a361b86f",
+    "issues": [
+      "uses 1 <br>",
+      "1 empty <p>",
+      "mixes ':' / no ':' in section headers (1 vs 4)"
+    ],
+    "text_count": 3318,
+    "n_li": 20,
+    "n_br": 1,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "location": "San Mateo, California, United States - Intern",
+    "id": "d13e3179-e646-4873-84a6-d492a692bc25",
+    "issues": [],
+    "text_count": 3827,
+    "n_li": 15,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) – EMEA (Finland)",
+    "location": "Tampere, Finland - Full-time",
+    "id": "d6f731e8-c530-4123-8b52-0e7cab164887",
+    "issues": [
+      "uses 2 <br>",
+      "mixes ':' / no ':' in section headers (3 vs 1)"
+    ],
+    "text_count": 4742,
+    "n_li": 22,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Aviation Regulatory Program Manager",
+    "location": "US Remote - Full-time",
+    "id": "d73ae64d-5877-4ab6-ad42-0224702f3fba",
+    "issues": [
+      "uses real heading tags (h2)",
+      "2 empty <p>"
+    ],
+    "text_count": 3496,
+    "n_li": 16,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Staff Product Manager, Platform & Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "dbd737b2-beed-4917-9948-dde4250929a8",
+    "issues": [
+      "uses 1 <br>",
+      "6 empty <p>",
+      "mixes ':' / no ':' in section headers (2 vs 1)"
+    ],
+    "text_count": 5713,
+    "n_li": 15,
+    "n_br": 1,
+    "n_empty_p": 6,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "dcb04687-9b4f-425d-8c37-1111cf3ccf3d",
+    "issues": [
+      "uses 8 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 3359,
+    "n_li": 17,
+    "n_br": 8,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 1,
+    "n_nbsp": 2
+  },
+  {
+    "title": "Enterprise Account Manager, US Navy, US Marine Corps, and IC/SOCOM",
+    "location": "US Remote - Full-time",
+    "id": "e69362bc-5891-486e-be75-6bf25187ccf5",
+    "issues": [],
+    "text_count": 3915,
+    "n_li": 20,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Software Engineer - Mobile Platform",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+    "issues": [
+      "3 empty <p>"
+    ],
+    "text_count": 3660,
+    "n_li": 18,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 5,
+    "n_nbsp": 0
+  },
+  {
+    "title": "PCB Layout Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "eb2f4124-9bd6-49f9-9636-03152c573f7d",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 2532,
+    "n_li": 12,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 2
+  },
+  {
+    "title": "Director, Global Supply Management - Mechanicals",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "eb7fbbdb-3346-4f7f-a202-8bfd3441217a",
+    "issues": [
+      "no <ul> bullets; uses inline '•' chars",
+      "3 empty <p>"
+    ],
+    "text_count": 4389,
+    "n_li": 0,
+    "n_br": 0,
+    "n_empty_p": 3,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Manager, Logistics",
+    "location": "US CA Production - Full-time",
+    "id": "eeb4b52f-d4e6-4823-9e4b-0ce75041d928",
+    "issues": [
+      "inline style attribute(s)",
+      "2 empty <p>"
+    ],
+    "text_count": 3187,
+    "n_li": 23,
+    "n_br": 0,
+    "n_empty_p": 2,
+    "n_inline_style": 1,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 1
+  },
+  {
+    "title": "Software Engineer - Embedded",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "ef9f7dd2-5a88-49b4-a507-d5fc9cad565a",
+    "issues": [],
+    "text_count": 2382,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 4,
+    "n_nbsp": 3
+  },
+  {
+    "title": "Electrical Engineer (all levels)",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "f0c26a3c-d999-4dc2-8812-b3835f633ded",
+    "issues": [
+      "uses 2 <br>"
+    ],
+    "text_count": 1698,
+    "n_li": 13,
+    "n_br": 2,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Wireless Systems Performance Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "f1ecf164-714c-4f1a-b672-d763f5724c03",
+    "issues": [],
+    "text_count": 2704,
+    "n_li": 16,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 4
+  },
+  {
+    "title": "Software Engineer Intern Fall 2026/Winter 2027",
+    "location": "US CA San Mateo - Intern",
+    "id": "f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "issues": [
+      "uses 4 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 2565,
+    "n_li": 12,
+    "n_br": 4,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 0
+  },
+  {
+    "title": "Senior Technical Support Representative - Japan",
+    "location": "Tokyo, Japan - Full-time",
+    "id": "f714e85f-31df-494e-bac4-1dd61d4d6066",
+    "issues": [
+      "uses real heading tags (h1)",
+      "uses 2 <br>",
+      "1 empty <p>"
+    ],
+    "text_count": 4888,
+    "n_li": 20,
+    "n_br": 2,
+    "n_empty_p": 1,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 0,
+    "n_nbsp": 0
+  },
+  {
+    "title": "RF Design Engineer",
+    "location": "San Mateo, California, United States - Full-time",
+    "id": "f72f1fa5-d3d6-459e-8722-a94ce92ad1c8",
+    "issues": [],
+    "text_count": 2673,
+    "n_li": 19,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 0,
+    "headings_via_bold_p": 3,
+    "n_nbsp": 0
+  },
+  {
+    "title": "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning)",
+    "location": "Zurich, Switzerland - Intern",
+    "id": "f8225008-00b5-415e-9a48-c9b6eba9363c",
+    "issues": [
+      "uses real heading tags (h3)"
+    ],
+    "text_count": 3261,
+    "n_li": 17,
+    "n_br": 0,
+    "n_empty_p": 0,
+    "n_inline_style": 0,
+    "headings_via_h_tag": 3,
+    "headings_via_bold_p": 2,
+    "n_nbsp": 1
+  }
+]
