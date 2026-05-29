@@ -1,0 +1,115 @@
+title,team,location,mode,h1,h2,h3,h4,strong,em,u,br,multi_br,empty_p,odd_styles,div,title_whitespace_issue
+Autonomy Engineer - Deep Learning,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Engineer - Deep Learning,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+Autonomy Engineer - Deep Learning Infrastructure,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,8,1,1,,0,0
+Autonomy Engineer - Deep Learning Infrastructure,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,6,1,0,,0,0
+Autonomy Engineer - Deep Learning Model Acceleration,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,6,1,0,,0,0
+Autonomy Engineer - Deep Learning Model Acceleration,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,6,1,0,,0,0
+Autonomy Engineer - Fixed Wing Planning & Controls,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Engineer - ML & DL Infrastructure ,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,3,,0,1
+Autonomy Engineer - ML & DL Infrastructure ,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,0,0,3,,0,1
+Autonomy Engineer - Planning and Controls,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,2,0,0,,0,0
+Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+Autonomy Engineer Intern - Deep Learning (Computational Photography),Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Engineer Intern - Deep Learning (Computational Photography),Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Engineer Intern Fall 2026,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Engineer Intern Fall 2026,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Autonomy Software Engineer,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,4,1,0,,0,0
+Engineering Manager - Autonomy,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+PhD Autonomy Engineer Intern - Deep Learning or Computer Vision,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+PhD Autonomy Engineer Intern - Deep Learning or Computer Vision,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning),Autonomy,"Zurich, Switzerland",mixed,0,0,3,0,21,0,0,0,0,0,,0,0
+Senior Autonomy Engineer - Controls ,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,1
+Senior Autonomy Engineer - Deep Learning,Autonomy,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,2,1,1,,0,0
+Senior Autonomy Engineer - Deep Learning,Autonomy,"Zurich, Switzerland",p-strong (norm),0,0,0,0,3,0,0,3,1,0,,0,0
+"Software Engineer - Autonomy Infrastructure, Systems and Tools",Autonomy,"San Mateo, California, United States",heading-tags,0,5,0,0,9,0,0,0,0,1,,0,0
+"Software Engineer - Autonomy Infrastructure, Systems and Tools",Autonomy,"Zurich, Switzerland",heading-tags,0,5,0,0,9,0,0,0,0,1,,0,0
+Software Engineer - Cloud Simulation & Full-Stack,Autonomy,"San Mateo, California, United States",heading-tags,0,5,0,0,26,0,0,0,0,2,,0,0
+Software Engineer - Cloud Simulation & Full-Stack,Autonomy,"Zurich, Switzerland",heading-tags,0,5,0,0,26,0,0,0,0,2,,0,0
+Software Engineer - Simulation & Robotics Engineer,Autonomy,"San Mateo, California, United States",heading-tags,0,0,5,0,13,0,0,0,0,2,,0,0
+Software Engineer - Simulation & Robotics Engineer,Autonomy,"Zurich, Switzerland",heading-tags,0,0,5,0,13,0,0,0,0,1,,0,0
+RF Design Engineer,Connectivity,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Senior RF Design Engineer,Connectivity,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,2,,0,0
+Senior Wireless Systems Performance Engineer,Connectivity,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Wireless Software Engineer,Connectivity,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Field Support Representative ,Customer Support,US Remote,p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,1
+"Field Support Representative (Southwest, Remote)",Customer Support,US Remote,p-strong (norm),0,0,0,0,4,0,0,0,0,2,,0,0
+"Manager, Technical Support",Customer Support,"San Mateo, California, United States",p-strong (norm),0,0,0,0,6,0,0,0,0,0,,0,0
+Product Support Engineer,Customer Support,"San Mateo, California, United States",inline (no headers),0,0,0,0,4,0,0,2,1,2,,0,0
+Product Support Engineer Intern,Customer Support,"San Mateo, California, United States",inline (no headers),0,0,0,0,4,0,0,2,1,3,,0,0
+Senior Customer Support Representative - India,Customer Support,"Bangalore, India",p-strong (norm),0,0,0,0,4,0,0,0,0,1,,0,0
+Senior Technical Support Representative - Japan,Customer Support,"Tokyo, Japan",heading-tags,3,0,0,0,2,0,0,2,1,1,,0,0
+ Electrical Engineer (Sustaining/Validation),Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,1
+Electrical Engineer (all levels) ,Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,2,1,0,,0,1
+Hardware Engineering Program Manager,Hardware,"San Mateo, California, United States",heading-tags,0,3,5,0,6,0,0,0,0,3,,0,0
+Lead Staff Electrical Engineer,Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,1,1,0,2,,0,0
+PCB Layout Engineer,Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,2,1,0,,0,0
+Product Design Engineer (All Levels),Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,0,,0,0
+Senior Hardware Test and Reliability Engineer,Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+Systems Integration and Test Engineer (Mid to Senior Level),Hardware,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+IT Technician (Help Desk - Linux Focus),IT,"Hayward, California, United States",p-strong (norm),0,0,0,0,6,0,0,9,1,2,,0,0
+Full Stack Product Counsel,Legal,"San Mateo, California, United States",heading-tags,0,0,4,0,4,0,1,0,0,8,,0,0
+Head of Warehouse & Logistics Operations,Manufacturing,"Hayward, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,2,,0,0
+"Manager, Logistics ",Manufacturing,"Hayward, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,2,min-height:1.2em;margin-top:0;margin-bottom:0,1,1
+Senior Buyer,Manufacturing,"Hayward, California, United States",mixed,0,2,0,0,3,0,0,0,0,3,,0,0
+Senior NPI Product Quality Engineer,Manufacturing,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,1,1,0,0,0,,0,0
+Communications Manager,Marketing,US Remote,heading-tags,0,3,0,0,4,0,0,0,0,3,,0,0
+"Director, Growth Marketing - Commercial",Marketing,"San Mateo, California, United States",p-strong (norm),0,0,0,0,6,1,0,8,0,2,,0,0
+Senior People Analytics Analyst,People & Recruiting,"San Mateo, California, United States",p-strong (norm),0,0,0,0,17,0,0,0,0,0,,0,0
+Senior Technical Recruiter,People & Recruiting,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,1,2,0,0,,0,0
+Senior Technical Recruiter - Hardware Operations,People & Recruiting,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,1,4,0,0,,0,0
+Staff Technical Recruiter,People & Recruiting,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,1,0,0,0,,0,0
+Workplace Experience Coordinator Part-Time,People & Recruiting,"Zurich, Switzerland",p-strong (norm),0,0,0,0,6,0,0,1,0,1,,0,0
+Aviation Compliance Lead,Policy & Regulatory Affairs,"San Mateo, California, United States",heading-tags,0,3,0,0,4,0,0,1,0,1,,0,0
+Aviation Regulatory Program Manager,Policy & Regulatory Affairs,US Remote,heading-tags,0,3,0,0,4,0,0,0,0,2,,0,0
+"Director of Product Management, Drone as First Responder (DFR)",Product,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,4,1,0,,0,0
+"Senior Director, Product Management, Drone as First Responder (DFR)",Product,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,2,1,0,,0,0
+"Senior Product Manager, Platform & Infrastructure",Product,"San Mateo, California, United States",p-strong (norm),0,0,0,0,15,0,0,1,0,6,,0,0
+"Staff Product Manager, Platform & Infrastructure",Product,"San Mateo, California, United States",p-strong (norm),0,0,0,0,15,0,0,1,0,6,,0,0
+"Customer Success Manager, DFR Majors - Northeast",Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,5,0,0,0,0,0,,0,0
+"Customer Success Manager, DFR Majors - Southeast",Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,6,0,0,0,0,0,,0,0
+"Customer Success Manager, DFR Mid-Market - Northeast",Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,6,0,0,0,0,5,,0,0
+Deployment Engineer - Southeast,Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,6,0,0,0,0,5,,0,0
+Mission Success Operations Manager,Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,0
+"Program Manager, Commercial Programs",Professional Services and Training,US AR Remote,p-strong (norm),0,0,0,0,8,0,0,0,0,5,,0,0
+"Program Manager, Major Deployments (Hawaii)",Professional Services and Training,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,3,,0,0
+Success Systems Specialist ,Professional Services and Training,US Remote,p-strong (norm),0,0,0,0,8,0,0,0,0,1,,0,1
+Enterprise Account Manager (MoD/ MoI) – EMEA (Finland),Sales,"Tampere, Finland",p-strong (norm),0,0,0,0,4,0,0,2,0,0,,0,0
+Enterprise Account Manager (MoD/ MoI) – EMEA (Germany),Sales,Germany,p-strong (norm),0,0,0,0,4,0,0,2,0,0,,0,0
+Enterprise Account Manager (MoD/ MoI) – EMEA (Switzerland),Sales,"Zurich, Switzerland",p-strong (norm),0,0,0,0,4,0,0,2,0,0,,0,0
+"Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM",Sales,US Remote,p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,1
+"Enterprise Account Manager, US Army",Sales,US Remote,p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+GTM Data Engineer Intern,Sales,"San Mateo, California, United States",p-strong (norm),0,0,0,0,16,0,0,3,0,2,,0,0
+GTM Enablement Associate,Sales,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,2,0,1,,0,0
+"GTM Engineer, Pre-Sales",Sales,US CA San Mateo,p-strong (norm),0,0,0,0,4,8,0,6,1,4,,0,0
+Public Safety Strategist,Sales,US Remote,p-strong (norm),0,0,0,0,3,0,1,0,0,0,,0,0
+"Revenue Operations Engineer, Quoting Systems",Sales,"San Mateo, California, United States",mixed,0,5,0,0,39,0,0,4,0,2,,0,0
+Sales Planning Analyst Intern,Sales,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,1,,0,0
+Senior Revenue Operations Manager,Sales,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,2,,0,0
+Senior Strategy and Planning Analyst,Sales,US CA San Mateo,p-strong (norm),0,0,0,0,3,0,0,1,0,2,,0,0
+Senior Software Engineer - Security,Security,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,0,,0,0
+" Senior Software Engineer,  Infrastructure",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,0,,0,1
+ Software Engineer - Infrastructure,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,0,,0,1
+Middleware Software Engineer Intern - Fall 2026,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,0,,0,0
+"Senior Engineering Manager, Infrastructure",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,7,0,0,0,0,0,,0,0
+Senior Software Engineer - Embedded ,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,1
+Senior Software Engineer - Mobile Platform ,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,3,,0,1
+"Senior Software Engineer,  Data Platform ",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,1,0,0,,0,1
+"Senior Software Engineer, Frontend",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,5,,0,0
+"Senior Software Engineer, Full Stack",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,1,1,0,0,,0,0
+"Senior Wireless Software Engineer, National Security",Software,"San Mateo, California, United States",heading-tags,0,6,0,0,32,0,0,2,0,4,,0,0
+Senior/Staff Embedded Software Engineer – Camera Systems,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,0,0,0,4,,0,0
+Software Engineer - Embedded,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,0
+Software Engineer Intern Fall 2026/Winter 2027,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,4,1,1,,0,0
+"Software Engineer, Full Stack",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,0,,0,0
+Sr/Staff Embedded Software Engineer - Camera Systems,Software,"Tampere, Finland",p-strong (norm),0,0,0,0,4,0,0,0,0,4,,0,0
+Staff Software Engineer - Embedded,Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,0
+"Staff Software Engineer, Frontend",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,5,0,0,0,0,5,,0,0
+"Staff Software Engineer, Full Stack",Software,"San Mateo, California, United States",p-strong (norm),0,0,0,0,4,0,0,0,0,0,,0,0
+"Director, Global Supply Management - Mechanicals",Supply Chain & Logistics,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,0,0,3,,0,0
+Hardware Operations Program Manager,Supply Chain & Logistics,"Hayward, California, United States",p-strong (norm),0,0,0,0,9,0,0,0,0,3,,0,0
+Senior Business Operations Manager,Supply Chain & Logistics,"San Mateo, California, United States",mixed,0,0,3,0,6,0,0,0,0,3,,0,0
+"Staff Global Supply Manager,  Mechanicals",Supply Chain & Logistics,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,1,0,1,,0,1
+"Supplier Quality Engineer, Sustaining",Supply Chain & Logistics,Taiwan,p-strong (norm),0,0,0,0,3,0,0,0,0,1,,0,0
+Supply Chain Intern,Supply Chain & Logistics,"San Mateo, California, United States",p-strong (norm),0,0,0,0,3,0,0,2,1,0,,0,0
