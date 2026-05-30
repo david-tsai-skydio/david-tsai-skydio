@@ -1,0 +1,38 @@
+Analyzed 113 jobs
+Wrote per_job_metrics.json
+
+=== Font sizes used (inline style) ===
+Counter()
+
+=== Font families used (inline style) ===
+Counter()
+
+=== Text colors used (inline style) ===
+Counter()
+
+=== Background colors used (inline style) ===
+Counter()
+
+=== Text alignments used (inline style) ===
+Counter()
+
+=== Line-heights used (inline style) ===
+Counter()
+
+=== Heading tags used ===
+Counter({'h2': 46, 'h3': 25, 'h1': 3})
+
+Jobs using >=1 real <h?> tag: 17
+Jobs using NO real heading tag (all pseudo): 96
+
+Jobs using >=1 pseudo (bold-only) heading: 98
+Jobs mixing real <h?> AND pseudo headings: 4
+
+=== Inline emphasis counts (jobs using any) ===
+  <strong>: 113
+  <b>     : 0
+  <em>    : 3
+  <i>     : 0
+  <u>     : 8
+
+Pre-compensation word count: min=244 p25=394 median=479 p75=567 max=876
