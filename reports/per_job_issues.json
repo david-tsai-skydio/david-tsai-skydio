@@ -1,0 +1,1132 @@
+[
+  {
+    "title": "Revenue Operations Engineer, Quoting Systems",
+    "department": "Sales",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/02d54431-2747-417d-8234-e72c316fed87/",
+    "issues": [
+      "Uses 5 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Mixes semantic headings (<h2>/<h3>) AND <p><strong> headings in same posting.",
+      "Contains 4 stray <br> tag(s) used as spacers.",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case)"
+    ],
+    "issue_count": 4
+  },
+  {
+    "title": "Senior Software Engineer,  Data Platform",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/aeaa130d-3e8b-42c5-a805-46f056e62fda/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['Why Join Us?']",
+      "Job title contains double space: \"Senior Software Engineer,  Data Platform\""
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Senior Technical Support Representative - Japan",
+    "department": "Customer Support",
+    "location": "Tokyo, Japan - Full-time",
+    "url": "https://www.skydio.com/jobs/f714e85f-31df-494e-bac4-1dd61d4d6066/",
+    "issues": [
+      "Uses 3 <h1> tag(s) inside body (h1 should only be the page title).",
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Has NO section headings at all."
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "IT Technician (Help Desk - Linux Focus)",
+    "department": "IT",
+    "location": "Hayward, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/28c865cf-6aa4-45d1-ae13-34bb8f6b776b/",
+    "issues": [
+      "Contains 9 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['About the Role', 'What You\u2019ll Do', 'What Makes You a Good Fit']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Director, Growth Marketing - Commercial",
+    "department": "Marketing",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/00d0bdc5-89ad-4182-8512-ab0a028953f6/",
+    "issues": [
+      "Contains 8 stray <br> tag(s) used as spacers.",
+      "Contains 1 <em>/<i> italic tag(s).",
+      "Section heading(s) missing trailing colon: ['Additional Desired Experience and Skills']"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Senior Technical Recruiter",
+    "department": "People &amp; Recruiting",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/16b0647d-a470-4917-9bb9-a95967828edc/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Contains 1 <u> underline tag(s).",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Senior Technical Recruiter - Hardware Operations",
+    "department": "People &amp; Recruiting",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/737c02d2-f03f-4716-a0c8-e14a0307f8cb/",
+    "issues": [
+      "Contains 4 stray <br> tag(s) used as spacers.",
+      "Contains 1 <u> underline tag(s).",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Finland)",
+    "department": "Sales",
+    "location": "Tampere, Finland - Full-time",
+    "url": "https://www.skydio.com/jobs/d6f731e8-c530-4123-8b52-0e7cab164887/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['This role must be based in Switzerland, Germany, or Finland.']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Germany)",
+    "department": "Sales",
+    "location": "Germany - Full-time",
+    "url": "https://www.skydio.com/jobs/12e9a494-9a89-457c-9dc7-2ef9ccdba17c/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['This role must be based in Switzerland, Germany, or Finland.']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Switzerland)",
+    "department": "Sales",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/1d4977a2-c2e7-44ad-820b-253ff8355800/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['This role must be based in Switzerland, Germany, or Finland.']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "GTM Engineer, Pre-Sales",
+    "department": "Sales",
+    "location": "US CA San Mateo - Full-time",
+    "url": "https://www.skydio.com/jobs/c0a67a10-0cda-4892-b9a5-8eadda765587/",
+    "issues": [
+      "Uses 4 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Uses 7 <h3> tag(s) for sub-headings.",
+      "Contains 3 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Public Safety Strategist (West Coast, Midwest, or Pacific North West)",
+    "department": "Sales",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/3a694691-50c2-43cf-b969-f40bad1d9e39/",
+    "issues": [
+      "Contains 1 <u> underline tag(s).",
+      "Section heading(s) missing trailing colon: ['West Coast, Midwest, or Pacific North West']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Senior Business Operations Manager",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/17b9ecf9-7a47-4811-b035-e1b9a54966aa/",
+    "issues": [
+      "Uses 3 <h3> tag(s) for sub-headings.",
+      "Mixes semantic headings (<h2>/<h3>) AND <p><strong> headings in same posting.",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case)"
+    ],
+    "issue_count": 3
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/dcb04687-9b4f-425d-8c37-1111cf3ccf3d/",
+    "issues": [
+      "Contains 8 stray <br> tag(s) used as spacers.",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/cd6d8410-419b-4713-8d4d-7eb72b134d5a/",
+    "issues": [
+      "Contains 6 stray <br> tag(s) used as spacers.",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Autonomy Software Engineer",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/a48fe41b-030b-4f11-bf25-df7446151854/",
+    "issues": [
+      "Contains 4 stray <br> tag(s) used as spacers.",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Engineering Manager - Autonomy",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/849ae77c-5ca2-42b5-812b-8b3ad4524a89/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "PhD Autonomy Engineer Intern - Planning &amp; Controls (Reinforcement Learning)",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Intern",
+    "url": "https://www.skydio.com/jobs/12590806-3cf0-4bc3-930b-12b53e227a5c/",
+    "issues": [
+      "Uses 3 <h3> tag(s) for sub-headings.",
+      "Mixes semantic headings (<h2>/<h3>) AND <p><strong> headings in same posting."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Engineering Program Manager",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/b49e6784-2183-4de4-a0a1-7661203c254a/",
+    "issues": [
+      "Uses 3 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Uses 5 <h3> tag(s) for sub-headings."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Lead Staff Electrical Engineer",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/1bbcf144-7057-4a6e-9d51-4924bfda52b9/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Contains 1 <u> underline tag(s)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Senior Product Manager, Platform &amp; Infrastructure",
+    "department": "Product",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/8d67884d-58f4-41a7-8740-ab65d3c03fa8/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['Location']"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Staff Product Manager, Platform &amp; Infrastructure",
+    "department": "Product",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/dbd737b2-beed-4917-9948-dde4250929a8/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['Location']"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Senior Software Engineer, Full Stack",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/5655fbe3-66b0-4951-afdc-3b67f71e6938/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Contains 1 <u> underline tag(s)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Senior Wireless Software Engineer, National Security",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/e49983b2-2323-48ea-bf1d-270f9f037457/",
+    "issues": [
+      "Uses 6 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Manager, Technical Support",
+    "department": "Customer Support",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/2b312ffb-26c3-4b7f-8904-acbc4e51934b/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['Willingness to work extended hours, weekends, holidays and on-call support as needed.']"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Product Support Engineer",
+    "department": "Customer Support",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/a4f131a0-4dde-46ce-85a1-c83fc3e0f21e/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers.",
+      "Has NO section headings at all."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Full Stack Product Counsel",
+    "department": "Legal",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/c9e40dab-ae7d-4034-a335-b3e05d419672/",
+    "issues": [
+      "Uses 4 <h3> tag(s) for sub-headings.",
+      "Contains 1 <u> underline tag(s)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Senior Buyer",
+    "department": "Manufacturing",
+    "location": "Hayward, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/5d32766d-990a-4c4c-a8c6-5e934dd8bd38/",
+    "issues": [
+      "Uses 2 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Mixes semantic headings (<h2>/<h3>) AND <p><strong> headings in same posting."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Senior NPI Product Quality Engineer",
+    "department": "Manufacturing",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/178a7e84-562e-40db-9abd-94bbf29159ca/",
+    "issues": [
+      "Contains 1 <u> underline tag(s).",
+      "Contains 1 <em>/<i> italic tag(s)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Logistics Operations Specialist, HQ",
+    "department": "People &amp; Recruiting",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/a769eb66-442c-4ea9-8d60-8fd9b6cffe26/",
+    "issues": [
+      "Uses 3 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Uses 3 <h3> tag(s) for sub-headings."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Staff Technical Recruiter",
+    "department": "People &amp; Recruiting",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/c3a4256a-4525-443c-81d0-6f69e7c24805/",
+    "issues": [
+      "Contains 1 <u> underline tag(s).",
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Workplace Experience Coordinator Part-Time",
+    "department": "People &amp; Recruiting",
+    "location": "Zurich, Switzerland - Part-time",
+    "url": "https://www.skydio.com/jobs/d023afe5-f19f-42f7-a1dd-aa94a361b86f/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Section heading(s) missing trailing colon: ['Workplace Experience & Office Operations', 'People Operations & HR Coordination', 'Qualifications', 'Work Environment']"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Aviation Compliance Lead",
+    "department": "Policy &amp; Regulatory Affairs",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/b9f9047b-1555-4978-9bff-70eae58a6b17/",
+    "issues": [
+      "Uses 4 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead).",
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Program Manager, Commercial Programs",
+    "department": "Professional Services and Training",
+    "location": "US AR Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/29ee46f0-d9ea-4a59-a671-3bb024450d04/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['About the Role']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case)"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Success Systems Specialist",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/8de95d05-a601-47e2-8a13-5ba4d7ad428a/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['Build Automation & Intelligence into Mission Success', 'Customer Digital Experience', 'Cross-Functional Architecture & Governance', 'Scalability & Cost Avoidance']",
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM",
+    "department": "Sales",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/e69362bc-5891-486e-be75-6bf25187ccf5/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case",
+      "Job title contains double space: \"Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM\""
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Sales Planning Analyst Intern",
+    "department": "Sales",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/712900e5-ff75-4e07-8f88-626d4f8ab653/",
+    "issues": [
+      "Contains 3 stray <br> tag(s) used as spacers.",
+      "Heading capitalization drift: \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Staff Global Supply Manager,  Mechanicals",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/2ffe6453-4a2f-4dfb-94f8-882f731a11ae/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers.",
+      "Job title contains double space: \"Staff Global Supply Manager,  Mechanicals\""
+    ],
+    "issue_count": 2
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/1208ec60-0fb6-4e5d-bf1f-af1312139a84/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/06234e2e-6285-43ce-9ae5-417cbfb85436/",
+    "issues": [
+      "Contains 6 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/0aff9e3d-6c59-4463-845c-850b78b48172/",
+    "issues": [
+      "Contains 6 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - Fixed Wing Planning &amp; Controls",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/20754382-05e7-4cb6-a0f9-0daf9338ba78/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You'll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - ML &amp; DL Infrastructure",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/7a611e90-4034-4e35-acce-388f48f7d3c0/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - ML &amp; DL Infrastructure",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/b6be08f7-89c0-48dd-b427-f587f23dbf34/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - Planning and Controls",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/d5a3ac9c-7b50-4e51-9600-f3c3105652cd/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Intern",
+    "url": "https://www.skydio.com/jobs/611a7f87-bc4c-468f-976f-ecd33b731fa3/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/c84945f0-b8e0-4272-b636-265d6611a8eb/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Intern",
+    "url": "https://www.skydio.com/jobs/c783c8dd-f604-47d0-aae0-187af89c81b4/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/8d3979a8-c791-4825-8cf4-9b25479b9519/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Autonomy Engineer - Controls",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/58b4cdf6-5630-4dd0-aab3-a1ed4d599466/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/4ded3e5e-cdfe-4dc5-bbaf-0d3023521246/",
+    "issues": [
+      "Contains 3 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/49da6783-223e-4b2c-81f6-3b47de1c52e7/",
+    "issues": [
+      "Uses 5 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/9e42a7af-6369-4036-ae6f-6626ee3a4fb3/",
+    "issues": [
+      "Uses 5 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Cloud Simulation &amp; Full-Stack",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/50dad059-b43b-4be1-84ab-2c350a68848f/",
+    "issues": [
+      "Uses 5 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Cloud Simulation &amp; Full-Stack",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/7d7dfadc-c6fd-4958-8d59-004a91bff55e/",
+    "issues": [
+      "Uses 5 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Simulation &amp; Robotics Engineer",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Full-time",
+    "url": "https://www.skydio.com/jobs/3193c6ab-27d2-4558-8ad8-1d3a1512ab72/",
+    "issues": [
+      "Uses 5 <h3> tag(s) for sub-headings."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Simulation &amp; Robotics Engineer",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/7a8f3e6c-d576-41af-a81e-bf4fe20da12a/",
+    "issues": [
+      "Uses 5 <h3> tag(s) for sub-headings."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "RF Design Engineer",
+    "department": "Connectivity",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/f72f1fa5-d3d6-459e-8722-a94ce92ad1c8/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Wireless Software Engineer",
+    "department": "Connectivity",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/c0c38168-badc-4dd7-96ed-99deb22149fc/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Electrical Engineer (Sustaining/Validation)",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/8e50c7da-2868-4383-af1f-920584d537fc/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Electrical Engineer (all levels)",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/f0c26a3c-d999-4dc2-8812-b3835f633ded/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "PCB Layout Engineer",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/eb2f4124-9bd6-49f9-9636-03152c573f7d/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Product Design Engineer (All Levels)",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/3f02ead1-8efe-4e3f-9c75-625e74ab57d1/",
+    "issues": [
+      "Contains 1 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior RF Design Engineer",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/7bd047de-b65b-42b2-a2bf-7d33ceabd083/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Systems Integration and Test Engineer (Mid to Senior Level)",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/a1a60b27-53a8-455e-b467-712e01c532dc/",
+    "issues": [
+      "Contains 5 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Director of Product Management, Drone as First Responder (DFR)",
+    "department": "Product",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/129a5bad-ca1d-4eda-843b-96f4581f3c43/",
+    "issues": [
+      "Contains 6 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Director, Product Management, Drone as First Responder (DFR)",
+    "department": "Product",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/7ef6359b-6454-4f91-871f-b33961585086/",
+    "issues": [
+      "Contains 4 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Software Engineer - Security",
+    "department": "Security",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/bcd3d614-178c-4349-afd4-76476211b7fe/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case)"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Staff Software Engineer - Security",
+    "department": "Security",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/417e884e-6760-41c6-ada4-db09dd7fd1c2/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case)"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Software Engineer,  Infrastructure",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/0f71bdbb-a645-49f6-8890-dd5c052772c3/",
+    "issues": [
+      "Job title contains double space: \"Senior Software Engineer,  Infrastructure\""
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Software Engineer - Embedded",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae/",
+    "issues": [
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Software Engineer - Mobile Platform",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Software Engineer, Frontend",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/86cfc7bb-001c-4c1c-b680-160265535a96/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior/Staff Embedded Software Engineer \u2013 Camera Systems",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/71033170-d9d0-474b-b712-a11e4f11c146/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer - Embedded",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/ef9f7dd2-5a88-49b4-a507-d5fc9cad565a/",
+    "issues": [
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Software Engineer Intern Fall 2026/Winter 2027",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/f6320e9b-4eed-408d-8d37-d509fb0406ee/",
+    "issues": [
+      "Contains 4 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Sr/Staff Embedded Software Engineer - Camera Systems",
+    "department": "Software",
+    "location": "Tampere, Finland - Full-time",
+    "url": "https://www.skydio.com/jobs/898a9c77-cc20-4ed6-a050-f68e5c15d5c8/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Staff Software Engineer - Embedded",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb/",
+    "issues": [
+      "Body contains link(s) with class=\"c-link c-link--underline\" (vs. plain <a> elsewhere)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Manager, Logistics",
+    "department": "Manufacturing",
+    "location": "Hayward, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/eeb4b52f-d4e6-4823-9e4b-0ce75041d928/",
+    "issues": [
+      "Contains inline style=\"\u2026\" attribute(s): [['div', 'min-height:1.2em;margin-top:0;margin-bottom:0']]"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Communications Manager",
+    "department": "Marketing",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/50567d8d-2903-494f-8e08-7c8ca734dc3a/",
+    "issues": [
+      "Uses 3 <h2> tag(s) for section headings (~83% of postings use <p><strong> instead)."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Customer Success Manager, Commercial",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/04384b35-fe97-46ea-9d5d-befed9bce9a0/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['What makes you a good fit']"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Customer Success Manager, DFR Majors - Southeast",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/3d4ac015-a6db-4a8d-9fec-557eb92eaf8d/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['Requirements']"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Customer Success Manager, DFR Mid-Market - Northeast",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/5c7a2b78-99d8-44f4-8c51-258c331a331d/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['Requirements', 'Experience & Skills']"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Mission Success Operations Manager",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/501a3067-e906-4354-b211-ac70db6accf4/",
+    "issues": [
+      "Section heading(s) missing trailing colon: ['What makes you a good fit']"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Manager, Training",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/9c3a9c61-4057-4df6-a1dc-9903d7fbc984/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Enterprise Account Manager, US Army",
+    "department": "Sales",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/19559b4c-ed09-41eb-b1aa-f000a855b8fe/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "GTM Data Engineer Intern",
+    "department": "Sales",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/",
+    "issues": [
+      "Contains 3 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "GTM Enablement Associate",
+    "department": "Sales",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/2b3fea3b-e1b5-4497-9607-e9864019b0e7/",
+    "issues": [
+      "Contains 2 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Senior Revenue Operations Manager",
+    "department": "Sales",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/05e9f029-3a9d-4956-a4c8-e0bc786dd86a/",
+    "issues": [
+      "Heading capitalization drift: \"About the Role\" (Title Case) \u2014 most postings use \"About the role\" (sentence case); \"How You\u2019ll Make an Impact\" (Title Case) \u2014 most postings use sentence case; \"What Makes You a Good Fit\" (Title Case) \u2014 most postings use sentence case"
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Supply Chain Intern",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/2d21f482-3224-4906-a1bb-6a64436774cb/",
+    "issues": [
+      "Contains 3 stray <br> tag(s) used as spacers."
+    ],
+    "issue_count": 1
+  },
+  {
+    "title": "Autonomy Engineer - Deep Learning",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/cc83824e-a1cd-4bc7-9206-7264da9fbd61/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Intern",
+    "url": "https://www.skydio.com/jobs/92a7a891-d332-459c-9aa8-e96afea4f2a4/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/d13e3179-e646-4873-84a6-d492a692bc25/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "department": "Autonomy",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/17f6173b-c96f-4b02-a6b5-da0a91ad95e5/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "department": "Autonomy",
+    "location": "Zurich, Switzerland - Intern",
+    "url": "https://www.skydio.com/jobs/c48dabe8-cb67-4694-aacc-f9ef4d34ae50/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Senior Wireless Systems Performance Engineer",
+    "department": "Connectivity",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/f1ecf164-714c-4f1a-b672-d763f5724c03/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Senior Hardware Test and Reliability Engineer",
+    "department": "Hardware",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/c0e49670-51ca-461c-b0e2-4a06df01f692/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Software Engineer - Infrastructure",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/cb958101-ede8-4f50-bf30-b3272d33f25f/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Middleware Software Engineer Intern - Fall 2026",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Intern",
+    "url": "https://www.skydio.com/jobs/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Senior Engineering Manager, Infrastructure",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/3e7fb209-7973-4b5e-bf3e-b9a8a1f390eb/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Software Engineer, Full Stack",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/067e1f47-9fba-4abf-b986-874d4d569706/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Staff Software Engineer, Frontend",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/54654035-a78a-4e5b-9ebf-ae4067e5a246/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Staff Software Engineer, Full Stack",
+    "department": "Software",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/379b23ea-14ff-4602-9b79-52d00bb96fda/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Field Support Representative",
+    "department": "Customer Support",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/b053b0e2-005c-4e77-95f3-26c7354e6095/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Field Support Representative (Southwest, Remote)",
+    "department": "Customer Support",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Senior Customer Support Representative - India",
+    "department": "Customer Support",
+    "location": "Bangalore, India - Full-time",
+    "url": "https://www.skydio.com/jobs/bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "CSM Manager - Public Safety (Major Markets)",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/f749f019-6c19-44ee-be4e-8434d231b9bf/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Deployment Engineer - Southeast",
+    "department": "Professional Services and Training",
+    "location": "US Remote - Full-time",
+    "url": "https://www.skydio.com/jobs/6138ba1c-c048-407d-9ea2-7b51a3d38756/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Director, Global Supply Management - Mechanicals",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "San Mateo, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/eb7fbbdb-3346-4f7f-a202-8bfd3441217a/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Hardware Operations Program Manager",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "Hayward, California, United States - Full-time",
+    "url": "https://www.skydio.com/jobs/55b393cf-124c-46f8-bd83-8c62e3ce628b/",
+    "issues": [],
+    "issue_count": 0
+  },
+  {
+    "title": "Supplier Quality Engineer, Sustaining",
+    "department": "Supply Chain &amp; Logistics",
+    "location": "Taiwan - Full-time",
+    "url": "https://www.skydio.com/jobs/4c4874bf-02da-4ccc-8918-2cca08feaf21/",
+    "issues": [],
+    "issue_count": 0
+  }
+]
