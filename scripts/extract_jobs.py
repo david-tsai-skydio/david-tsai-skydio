@@ -38,13 +38,22 @@ def main() -> None:
             continue
         seen.add(job_id)
 
-        # Meta text (location + employment type) sits in a sibling <p> after the title
-        meta_el = title_el.find_next(
-            string=re.compile(
-                r"(Full-time|Intern|Part-time|Contract|Remote)"
-            )
-        )
-        meta_text = (meta_el.strip() if meta_el else "")
+        # Meta text (location + employment type) sits in a sibling element
+        # that appears AFTER the title and looks like "<Location> - <Type>".
+        # Walk forward through siblings/descendants and pick the first
+        # plain text node that matches "<something> - <Full-time|Intern|...>".
+        meta_text = ""
+        for node in title_el.find_all_next(string=True, limit=25):
+            txt = node.strip()
+            if not txt:
+                continue
+            # Skip text nested inside another job-listings__title
+            parent_titles = [p for p in node.parents if getattr(p, "get", lambda _: None)("class") and "job-listings__title" in (p.get("class") or [])]
+            if parent_titles:
+                continue
+            if re.search(r"-\s+(Full-time|Intern|Part-time|Contract|Remote|jobListings\.employmentTypes\.\w+)\s*$", txt):
+                meta_text = txt
+                break
 
         # Department: nearest preceding h4 heading
         dept = None
