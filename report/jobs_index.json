@@ -1,0 +1,828 @@
+[
+  {
+    "job_id": "cc83824e-a1cd-4bc7-9206-7264da9fbd61",
+    "title": "Autonomy Engineer - Deep Learning",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/cc83824e-a1cd-4bc7-9206-7264da9fbd61/?gh_jid=cc83824e-a1cd-4bc7-9206-7264da9fbd61"
+  },
+  {
+    "job_id": "1208ec60-0fb6-4e5d-bf1f-af1312139a84",
+    "title": "Autonomy Engineer - Deep Learning",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/1208ec60-0fb6-4e5d-bf1f-af1312139a84/?gh_jid=1208ec60-0fb6-4e5d-bf1f-af1312139a84"
+  },
+  {
+    "job_id": "dcb04687-9b4f-425d-8c37-1111cf3ccf3d",
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/dcb04687-9b4f-425d-8c37-1111cf3ccf3d/?gh_jid=dcb04687-9b4f-425d-8c37-1111cf3ccf3d"
+  },
+  {
+    "job_id": "06234e2e-6285-43ce-9ae5-417cbfb85436",
+    "title": "Autonomy Engineer - Deep Learning Infrastructure",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/06234e2e-6285-43ce-9ae5-417cbfb85436/?gh_jid=06234e2e-6285-43ce-9ae5-417cbfb85436"
+  },
+  {
+    "job_id": "0aff9e3d-6c59-4463-845c-850b78b48172",
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/0aff9e3d-6c59-4463-845c-850b78b48172/?gh_jid=0aff9e3d-6c59-4463-845c-850b78b48172"
+  },
+  {
+    "job_id": "cd6d8410-419b-4713-8d4d-7eb72b134d5a",
+    "title": "Autonomy Engineer - Deep Learning Model Acceleration",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/cd6d8410-419b-4713-8d4d-7eb72b134d5a/?gh_jid=cd6d8410-419b-4713-8d4d-7eb72b134d5a"
+  },
+  {
+    "job_id": "20754382-05e7-4cb6-a0f9-0daf9338ba78",
+    "title": "Autonomy Engineer - Fixed Wing Planning & Controls",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/20754382-05e7-4cb6-a0f9-0daf9338ba78/?gh_jid=20754382-05e7-4cb6-a0f9-0daf9338ba78"
+  },
+  {
+    "job_id": "7a611e90-4034-4e35-acce-388f48f7d3c0",
+    "title": "Autonomy Engineer - ML & DL Infrastructure",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/7a611e90-4034-4e35-acce-388f48f7d3c0/?gh_jid=7a611e90-4034-4e35-acce-388f48f7d3c0"
+  },
+  {
+    "job_id": "b6be08f7-89c0-48dd-b427-f587f23dbf34",
+    "title": "Autonomy Engineer - ML & DL Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/b6be08f7-89c0-48dd-b427-f587f23dbf34/?gh_jid=b6be08f7-89c0-48dd-b427-f587f23dbf34"
+  },
+  {
+    "job_id": "d5a3ac9c-7b50-4e51-9600-f3c3105652cd",
+    "title": "Autonomy Engineer - Planning and Controls",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/d5a3ac9c-7b50-4e51-9600-f3c3105652cd/?gh_jid=d5a3ac9c-7b50-4e51-9600-f3c3105652cd"
+  },
+  {
+    "job_id": "611a7f87-bc4c-468f-976f-ecd33b731fa3",
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "meta": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/611a7f87-bc4c-468f-976f-ecd33b731fa3/?gh_jid=611a7f87-bc4c-468f-976f-ecd33b731fa3"
+  },
+  {
+    "job_id": "c84945f0-b8e0-4272-b636-265d6611a8eb",
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "meta": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/c84945f0-b8e0-4272-b636-265d6611a8eb/?gh_jid=c84945f0-b8e0-4272-b636-265d6611a8eb"
+  },
+  {
+    "job_id": "92a7a891-d332-459c-9aa8-e96afea4f2a4",
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "meta": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/92a7a891-d332-459c-9aa8-e96afea4f2a4/?gh_jid=92a7a891-d332-459c-9aa8-e96afea4f2a4"
+  },
+  {
+    "job_id": "d13e3179-e646-4873-84a6-d492a692bc25",
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "meta": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/d13e3179-e646-4873-84a6-d492a692bc25/?gh_jid=d13e3179-e646-4873-84a6-d492a692bc25"
+  },
+  {
+    "job_id": "17f6173b-c96f-4b02-a6b5-da0a91ad95e5",
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "meta": "Autonomy Engineer Intern Fall 2026",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/17f6173b-c96f-4b02-a6b5-da0a91ad95e5/?gh_jid=17f6173b-c96f-4b02-a6b5-da0a91ad95e5"
+  },
+  {
+    "job_id": "c48dabe8-cb67-4694-aacc-f9ef4d34ae50",
+    "title": "Autonomy Engineer Intern Fall 2026",
+    "meta": "Autonomy Engineer Intern Fall 2026",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/c48dabe8-cb67-4694-aacc-f9ef4d34ae50/?gh_jid=c48dabe8-cb67-4694-aacc-f9ef4d34ae50"
+  },
+  {
+    "job_id": "a48fe41b-030b-4f11-bf25-df7446151854",
+    "title": "Autonomy Software Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/a48fe41b-030b-4f11-bf25-df7446151854/?gh_jid=a48fe41b-030b-4f11-bf25-df7446151854"
+  },
+  {
+    "job_id": "849ae77c-5ca2-42b5-812b-8b3ad4524a89",
+    "title": "Engineering Manager - Autonomy",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/849ae77c-5ca2-42b5-812b-8b3ad4524a89/?gh_jid=849ae77c-5ca2-42b5-812b-8b3ad4524a89"
+  },
+  {
+    "job_id": "c783c8dd-f604-47d0-aae0-187af89c81b4",
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "meta": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/c783c8dd-f604-47d0-aae0-187af89c81b4/?gh_jid=c783c8dd-f604-47d0-aae0-187af89c81b4"
+  },
+  {
+    "job_id": "8d3979a8-c791-4825-8cf4-9b25479b9519",
+    "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "meta": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/8d3979a8-c791-4825-8cf4-9b25479b9519/?gh_jid=8d3979a8-c791-4825-8cf4-9b25479b9519"
+  },
+  {
+    "job_id": "12590806-3cf0-4bc3-930b-12b53e227a5c",
+    "title": "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning)",
+    "meta": "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning)",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/12590806-3cf0-4bc3-930b-12b53e227a5c/?gh_jid=12590806-3cf0-4bc3-930b-12b53e227a5c"
+  },
+  {
+    "job_id": "58b4cdf6-5630-4dd0-aab3-a1ed4d599466",
+    "title": "Senior Autonomy Engineer - Controls",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/58b4cdf6-5630-4dd0-aab3-a1ed4d599466/?gh_jid=58b4cdf6-5630-4dd0-aab3-a1ed4d599466"
+  },
+  {
+    "job_id": "4ded3e5e-cdfe-4dc5-bbaf-0d3023521246",
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/4ded3e5e-cdfe-4dc5-bbaf-0d3023521246/?gh_jid=4ded3e5e-cdfe-4dc5-bbaf-0d3023521246"
+  },
+  {
+    "job_id": "a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f",
+    "title": "Senior Autonomy Engineer - Deep Learning",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f/?gh_jid=a6421d3e-fdd0-48d6-8d8f-3fd605cdf09f"
+  },
+  {
+    "job_id": "134f29cc-da9f-4214-9d9c-d044f93af39e",
+    "title": "Senior Autonomy Engineer, Data Curation",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/134f29cc-da9f-4214-9d9c-d044f93af39e/?gh_jid=134f29cc-da9f-4214-9d9c-d044f93af39e"
+  },
+  {
+    "job_id": "49da6783-223e-4b2c-81f6-3b47de1c52e7",
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/49da6783-223e-4b2c-81f6-3b47de1c52e7/?gh_jid=49da6783-223e-4b2c-81f6-3b47de1c52e7"
+  },
+  {
+    "job_id": "9e42a7af-6369-4036-ae6f-6626ee3a4fb3",
+    "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/9e42a7af-6369-4036-ae6f-6626ee3a4fb3/?gh_jid=9e42a7af-6369-4036-ae6f-6626ee3a4fb3"
+  },
+  {
+    "job_id": "50dad059-b43b-4be1-84ab-2c350a68848f",
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/50dad059-b43b-4be1-84ab-2c350a68848f/?gh_jid=50dad059-b43b-4be1-84ab-2c350a68848f"
+  },
+  {
+    "job_id": "7d7dfadc-c6fd-4958-8d59-004a91bff55e",
+    "title": "Software Engineer - Cloud Simulation & Full-Stack",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/7d7dfadc-c6fd-4958-8d59-004a91bff55e/?gh_jid=7d7dfadc-c6fd-4958-8d59-004a91bff55e"
+  },
+  {
+    "job_id": "3193c6ab-27d2-4558-8ad8-1d3a1512ab72",
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/3193c6ab-27d2-4558-8ad8-1d3a1512ab72/?gh_jid=3193c6ab-27d2-4558-8ad8-1d3a1512ab72"
+  },
+  {
+    "job_id": "7a8f3e6c-d576-41af-a81e-bf4fe20da12a",
+    "title": "Software Engineer - Simulation & Robotics Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Autonomy",
+    "url": "https://www.skydio.com/jobs/7a8f3e6c-d576-41af-a81e-bf4fe20da12a/?gh_jid=7a8f3e6c-d576-41af-a81e-bf4fe20da12a"
+  },
+  {
+    "job_id": "f72f1fa5-d3d6-459e-8722-a94ce92ad1c8",
+    "title": "RF Design Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Connectivity",
+    "url": "https://www.skydio.com/jobs/f72f1fa5-d3d6-459e-8722-a94ce92ad1c8/?gh_jid=f72f1fa5-d3d6-459e-8722-a94ce92ad1c8"
+  },
+  {
+    "job_id": "f1ecf164-714c-4f1a-b672-d763f5724c03",
+    "title": "Senior Wireless Systems Performance Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Connectivity",
+    "url": "https://www.skydio.com/jobs/f1ecf164-714c-4f1a-b672-d763f5724c03/?gh_jid=f1ecf164-714c-4f1a-b672-d763f5724c03"
+  },
+  {
+    "job_id": "c0c38168-badc-4dd7-96ed-99deb22149fc",
+    "title": "Wireless Software Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Connectivity",
+    "url": "https://www.skydio.com/jobs/c0c38168-badc-4dd7-96ed-99deb22149fc/?gh_jid=c0c38168-badc-4dd7-96ed-99deb22149fc"
+  },
+  {
+    "job_id": "8e50c7da-2868-4383-af1f-920584d537fc",
+    "title": "Electrical Engineer (Sustaining/Validation)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/8e50c7da-2868-4383-af1f-920584d537fc/?gh_jid=8e50c7da-2868-4383-af1f-920584d537fc"
+  },
+  {
+    "job_id": "f0c26a3c-d999-4dc2-8812-b3835f633ded",
+    "title": "Electrical Engineer (all levels)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/f0c26a3c-d999-4dc2-8812-b3835f633ded/?gh_jid=f0c26a3c-d999-4dc2-8812-b3835f633ded"
+  },
+  {
+    "job_id": "b49e6784-2183-4de4-a0a1-7661203c254a",
+    "title": "Engineering Program Manager",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/b49e6784-2183-4de4-a0a1-7661203c254a/?gh_jid=b49e6784-2183-4de4-a0a1-7661203c254a"
+  },
+  {
+    "job_id": "1bbcf144-7057-4a6e-9d51-4924bfda52b9",
+    "title": "Lead Staff Electrical Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/1bbcf144-7057-4a6e-9d51-4924bfda52b9/?gh_jid=1bbcf144-7057-4a6e-9d51-4924bfda52b9"
+  },
+  {
+    "job_id": "eb2f4124-9bd6-49f9-9636-03152c573f7d",
+    "title": "PCB Layout Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/eb2f4124-9bd6-49f9-9636-03152c573f7d/?gh_jid=eb2f4124-9bd6-49f9-9636-03152c573f7d"
+  },
+  {
+    "job_id": "3f02ead1-8efe-4e3f-9c75-625e74ab57d1",
+    "title": "Product Design Engineer (All Levels)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/3f02ead1-8efe-4e3f-9c75-625e74ab57d1/?gh_jid=3f02ead1-8efe-4e3f-9c75-625e74ab57d1"
+  },
+  {
+    "job_id": "c0e49670-51ca-461c-b0e2-4a06df01f692",
+    "title": "Senior Hardware Test and Reliability Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/c0e49670-51ca-461c-b0e2-4a06df01f692/?gh_jid=c0e49670-51ca-461c-b0e2-4a06df01f692"
+  },
+  {
+    "job_id": "7bd047de-b65b-42b2-a2bf-7d33ceabd083",
+    "title": "Senior RF Design Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/7bd047de-b65b-42b2-a2bf-7d33ceabd083/?gh_jid=7bd047de-b65b-42b2-a2bf-7d33ceabd083"
+  },
+  {
+    "job_id": "a1a60b27-53a8-455e-b467-712e01c532dc",
+    "title": "Systems Integration and Test Engineer (Mid to Senior Level)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Hardware",
+    "url": "https://www.skydio.com/jobs/a1a60b27-53a8-455e-b467-712e01c532dc/?gh_jid=a1a60b27-53a8-455e-b467-712e01c532dc"
+  },
+  {
+    "job_id": "129a5bad-ca1d-4eda-843b-96f4581f3c43",
+    "title": "Director of Product Management, Drone as First Responder (DFR)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Product",
+    "url": "https://www.skydio.com/jobs/129a5bad-ca1d-4eda-843b-96f4581f3c43/?gh_jid=129a5bad-ca1d-4eda-843b-96f4581f3c43"
+  },
+  {
+    "job_id": "7ef6359b-6454-4f91-871f-b33961585086",
+    "title": "Senior Director, Product Management, Drone as First Responder (DFR)",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Product",
+    "url": "https://www.skydio.com/jobs/7ef6359b-6454-4f91-871f-b33961585086/?gh_jid=7ef6359b-6454-4f91-871f-b33961585086"
+  },
+  {
+    "job_id": "8d67884d-58f4-41a7-8740-ab65d3c03fa8",
+    "title": "Senior Product Manager, Platform & Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Product",
+    "url": "https://www.skydio.com/jobs/8d67884d-58f4-41a7-8740-ab65d3c03fa8/?gh_jid=8d67884d-58f4-41a7-8740-ab65d3c03fa8"
+  },
+  {
+    "job_id": "dbd737b2-beed-4917-9948-dde4250929a8",
+    "title": "Staff Product Manager, Platform & Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Product",
+    "url": "https://www.skydio.com/jobs/dbd737b2-beed-4917-9948-dde4250929a8/?gh_jid=dbd737b2-beed-4917-9948-dde4250929a8"
+  },
+  {
+    "job_id": "bcd3d614-178c-4349-afd4-76476211b7fe",
+    "title": "Senior Software Engineer - Security",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Security",
+    "url": "https://www.skydio.com/jobs/bcd3d614-178c-4349-afd4-76476211b7fe/?gh_jid=bcd3d614-178c-4349-afd4-76476211b7fe"
+  },
+  {
+    "job_id": "417e884e-6760-41c6-ada4-db09dd7fd1c2",
+    "title": "Staff Software Engineer - Security",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Security",
+    "url": "https://www.skydio.com/jobs/417e884e-6760-41c6-ada4-db09dd7fd1c2/?gh_jid=417e884e-6760-41c6-ada4-db09dd7fd1c2"
+  },
+  {
+    "job_id": "0f71bdbb-a645-49f6-8890-dd5c052772c3",
+    "title": "Senior Software Engineer,  Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/0f71bdbb-a645-49f6-8890-dd5c052772c3/?gh_jid=0f71bdbb-a645-49f6-8890-dd5c052772c3"
+  },
+  {
+    "job_id": "cb958101-ede8-4f50-bf30-b3272d33f25f",
+    "title": "Software Engineer - Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/cb958101-ede8-4f50-bf30-b3272d33f25f/?gh_jid=cb958101-ede8-4f50-bf30-b3272d33f25f"
+  },
+  {
+    "job_id": "7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
+    "title": "Middleware Software Engineer Intern - Fall 2026",
+    "meta": "Middleware Software Engineer Intern - Fall 2026",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/?gh_jid=7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915"
+  },
+  {
+    "job_id": "3e7fb209-7973-4b5e-bf3e-b9a8a1f390eb",
+    "title": "Senior Engineering Manager, Infrastructure",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/3e7fb209-7973-4b5e-bf3e-b9a8a1f390eb/?gh_jid=3e7fb209-7973-4b5e-bf3e-b9a8a1f390eb"
+  },
+  {
+    "job_id": "67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae",
+    "title": "Senior Software Engineer - Embedded",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae/?gh_jid=67a7d89f-9c4e-4f60-bdf1-a60b8addd8ae"
+  },
+  {
+    "job_id": "e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a",
+    "title": "Senior Software Engineer - Mobile Platform",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a/?gh_jid=e8cb16b0-d2f0-4cb4-a1a1-0f43d195cc9a"
+  },
+  {
+    "job_id": "aeaa130d-3e8b-42c5-a805-46f056e62fda",
+    "title": "Senior Software Engineer,  Data Platform",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/aeaa130d-3e8b-42c5-a805-46f056e62fda/?gh_jid=aeaa130d-3e8b-42c5-a805-46f056e62fda"
+  },
+  {
+    "job_id": "86cfc7bb-001c-4c1c-b680-160265535a96",
+    "title": "Senior Software Engineer, Frontend",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/86cfc7bb-001c-4c1c-b680-160265535a96/?gh_jid=86cfc7bb-001c-4c1c-b680-160265535a96"
+  },
+  {
+    "job_id": "5655fbe3-66b0-4951-afdc-3b67f71e6938",
+    "title": "Senior Software Engineer, Full Stack",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/5655fbe3-66b0-4951-afdc-3b67f71e6938/?gh_jid=5655fbe3-66b0-4951-afdc-3b67f71e6938"
+  },
+  {
+    "job_id": "e49983b2-2323-48ea-bf1d-270f9f037457",
+    "title": "Senior Wireless Software Engineer, National Security",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/e49983b2-2323-48ea-bf1d-270f9f037457/?gh_jid=e49983b2-2323-48ea-bf1d-270f9f037457"
+  },
+  {
+    "job_id": "71033170-d9d0-474b-b712-a11e4f11c146",
+    "title": "Senior/Staff Embedded Software Engineer \u2013 Camera Systems",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/71033170-d9d0-474b-b712-a11e4f11c146/?gh_jid=71033170-d9d0-474b-b712-a11e4f11c146"
+  },
+  {
+    "job_id": "ef9f7dd2-5a88-49b4-a507-d5fc9cad565a",
+    "title": "Software Engineer - Embedded",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/ef9f7dd2-5a88-49b4-a507-d5fc9cad565a/?gh_jid=ef9f7dd2-5a88-49b4-a507-d5fc9cad565a"
+  },
+  {
+    "job_id": "f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "title": "Software Engineer Intern Fall 2026/Winter 2027",
+    "meta": "Software Engineer Intern Fall 2026/Winter 2027",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/f6320e9b-4eed-408d-8d37-d509fb0406ee/?gh_jid=f6320e9b-4eed-408d-8d37-d509fb0406ee"
+  },
+  {
+    "job_id": "067e1f47-9fba-4abf-b986-874d4d569706",
+    "title": "Software Engineer, Full Stack",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/067e1f47-9fba-4abf-b986-874d4d569706/?gh_jid=067e1f47-9fba-4abf-b986-874d4d569706"
+  },
+  {
+    "job_id": "898a9c77-cc20-4ed6-a050-f68e5c15d5c8",
+    "title": "Sr/Staff Embedded Software Engineer - Camera Systems",
+    "meta": "Tampere, Finland - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/898a9c77-cc20-4ed6-a050-f68e5c15d5c8/?gh_jid=898a9c77-cc20-4ed6-a050-f68e5c15d5c8"
+  },
+  {
+    "job_id": "b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb",
+    "title": "Staff Software Engineer - Embedded",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb/?gh_jid=b3b2dea9-63bb-4adb-ba29-69bd8f7a18eb"
+  },
+  {
+    "job_id": "54654035-a78a-4e5b-9ebf-ae4067e5a246",
+    "title": "Staff Software Engineer, Frontend",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/54654035-a78a-4e5b-9ebf-ae4067e5a246/?gh_jid=54654035-a78a-4e5b-9ebf-ae4067e5a246"
+  },
+  {
+    "job_id": "379b23ea-14ff-4602-9b79-52d00bb96fda",
+    "title": "Staff Software Engineer, Full Stack",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Software",
+    "url": "https://www.skydio.com/jobs/379b23ea-14ff-4602-9b79-52d00bb96fda/?gh_jid=379b23ea-14ff-4602-9b79-52d00bb96fda"
+  },
+  {
+    "job_id": "0e503e13-efe0-4a33-a58d-8ce995e5f20e",
+    "title": "Field Service Technician",
+    "meta": "US CA San Mateo - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/0e503e13-efe0-4a33-a58d-8ce995e5f20e/?gh_jid=0e503e13-efe0-4a33-a58d-8ce995e5f20e"
+  },
+  {
+    "job_id": "b053b0e2-005c-4e77-95f3-26c7354e6095",
+    "title": "Field Support Representative",
+    "meta": "US Remote - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/b053b0e2-005c-4e77-95f3-26c7354e6095/?gh_jid=b053b0e2-005c-4e77-95f3-26c7354e6095"
+  },
+  {
+    "job_id": "b3698d0d-a7c5-4d10-a2a7-0eab906c7ade",
+    "title": "Field Support Representative - New York",
+    "meta": "US NY Remote - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/b3698d0d-a7c5-4d10-a2a7-0eab906c7ade/?gh_jid=b3698d0d-a7c5-4d10-a2a7-0eab906c7ade"
+  },
+  {
+    "job_id": "9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357",
+    "title": "Field Support Representative (Southwest, Remote)",
+    "meta": "Field Support Representative (Southwest, Remote)",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357/?gh_jid=9b93e7c2-e5d5-48b2-a2d2-8df71e0d8357"
+  },
+  {
+    "job_id": "2b312ffb-26c3-4b7f-8904-acbc4e51934b",
+    "title": "Manager, Technical Support",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/2b312ffb-26c3-4b7f-8904-acbc4e51934b/?gh_jid=2b312ffb-26c3-4b7f-8904-acbc4e51934b"
+  },
+  {
+    "job_id": "a4f131a0-4dde-46ce-85a1-c83fc3e0f21e",
+    "title": "Product Support Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/a4f131a0-4dde-46ce-85a1-c83fc3e0f21e/?gh_jid=a4f131a0-4dde-46ce-85a1-c83fc3e0f21e"
+  },
+  {
+    "job_id": "bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0",
+    "title": "Senior Customer Support Representative - India",
+    "meta": "Bangalore, India - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0/?gh_jid=bb7a9c5c-8dbb-4a2f-9d7d-db9ab1f707b0"
+  },
+  {
+    "job_id": "f714e85f-31df-494e-bac4-1dd61d4d6066",
+    "title": "Senior Technical Support Representative - Japan",
+    "meta": "Tokyo, Japan - Full-time",
+    "department": "Customer Support",
+    "url": "https://www.skydio.com/jobs/f714e85f-31df-494e-bac4-1dd61d4d6066/?gh_jid=f714e85f-31df-494e-bac4-1dd61d4d6066"
+  },
+  {
+    "job_id": "28c865cf-6aa4-45d1-ae13-34bb8f6b776b",
+    "title": "IT Technician (Help Desk - Linux Focus)",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "IT",
+    "url": "https://www.skydio.com/jobs/28c865cf-6aa4-45d1-ae13-34bb8f6b776b/?gh_jid=28c865cf-6aa4-45d1-ae13-34bb8f6b776b"
+  },
+  {
+    "job_id": "c9e40dab-ae7d-4034-a335-b3e05d419672",
+    "title": "Full Stack Product Counsel",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Legal",
+    "url": "https://www.skydio.com/jobs/c9e40dab-ae7d-4034-a335-b3e05d419672/?gh_jid=c9e40dab-ae7d-4034-a335-b3e05d419672"
+  },
+  {
+    "job_id": "eeb4b52f-d4e6-4823-9e4b-0ce75041d928",
+    "title": "Manager, Logistics",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "Manufacturing",
+    "url": "https://www.skydio.com/jobs/eeb4b52f-d4e6-4823-9e4b-0ce75041d928/?gh_jid=eeb4b52f-d4e6-4823-9e4b-0ce75041d928"
+  },
+  {
+    "job_id": "be825fe1-fde0-46df-b084-8c663a3140f1",
+    "title": "Production Planner, Nightshift",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "Manufacturing",
+    "url": "https://www.skydio.com/jobs/be825fe1-fde0-46df-b084-8c663a3140f1/?gh_jid=be825fe1-fde0-46df-b084-8c663a3140f1"
+  },
+  {
+    "job_id": "5d32766d-990a-4c4c-a8c6-5e934dd8bd38",
+    "title": "Senior Buyer",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "Manufacturing",
+    "url": "https://www.skydio.com/jobs/5d32766d-990a-4c4c-a8c6-5e934dd8bd38/?gh_jid=5d32766d-990a-4c4c-a8c6-5e934dd8bd38"
+  },
+  {
+    "job_id": "de4e2f3b-de1c-4a3a-950e-e54da7a141a0",
+    "title": "Senior Materials Program Manager",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Manufacturing",
+    "url": "https://www.skydio.com/jobs/de4e2f3b-de1c-4a3a-950e-e54da7a141a0/?gh_jid=de4e2f3b-de1c-4a3a-950e-e54da7a141a0"
+  },
+  {
+    "job_id": "178a7e84-562e-40db-9abd-94bbf29159ca",
+    "title": "Senior NPI Product Quality Engineer",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Manufacturing",
+    "url": "https://www.skydio.com/jobs/178a7e84-562e-40db-9abd-94bbf29159ca/?gh_jid=178a7e84-562e-40db-9abd-94bbf29159ca"
+  },
+  {
+    "job_id": "50567d8d-2903-494f-8e08-7c8ca734dc3a",
+    "title": "Communications Manager",
+    "meta": "US Remote - Full-time",
+    "department": "Marketing",
+    "url": "https://www.skydio.com/jobs/50567d8d-2903-494f-8e08-7c8ca734dc3a/?gh_jid=50567d8d-2903-494f-8e08-7c8ca734dc3a"
+  },
+  {
+    "job_id": "00d0bdc5-89ad-4182-8512-ab0a028953f6",
+    "title": "Director, Growth Marketing - Commercial",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Marketing",
+    "url": "https://www.skydio.com/jobs/00d0bdc5-89ad-4182-8512-ab0a028953f6/?gh_jid=00d0bdc5-89ad-4182-8512-ab0a028953f6"
+  },
+  {
+    "job_id": "bab95798-8ec7-4254-83c9-070b19c71814",
+    "title": "Manufacturing Execution System Analyst",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "Manufacturing Engineering",
+    "url": "https://www.skydio.com/jobs/bab95798-8ec7-4254-83c9-070b19c71814/?gh_jid=bab95798-8ec7-4254-83c9-070b19c71814"
+  },
+  {
+    "job_id": "a769eb66-442c-4ea9-8d60-8fd9b6cffe26",
+    "title": "Logistics Operations Specialist, HQ",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "People & Recruiting",
+    "url": "https://www.skydio.com/jobs/a769eb66-442c-4ea9-8d60-8fd9b6cffe26/?gh_jid=a769eb66-442c-4ea9-8d60-8fd9b6cffe26"
+  },
+  {
+    "job_id": "16b0647d-a470-4917-9bb9-a95967828edc",
+    "title": "Senior Technical Recruiter",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "People & Recruiting",
+    "url": "https://www.skydio.com/jobs/16b0647d-a470-4917-9bb9-a95967828edc/?gh_jid=16b0647d-a470-4917-9bb9-a95967828edc"
+  },
+  {
+    "job_id": "737c02d2-f03f-4716-a0c8-e14a0307f8cb",
+    "title": "Senior Technical Recruiter - Hardware Operations",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "People & Recruiting",
+    "url": "https://www.skydio.com/jobs/737c02d2-f03f-4716-a0c8-e14a0307f8cb/?gh_jid=737c02d2-f03f-4716-a0c8-e14a0307f8cb"
+  },
+  {
+    "job_id": "c3a4256a-4525-443c-81d0-6f69e7c24805",
+    "title": "Staff Technical Recruiter",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "People & Recruiting",
+    "url": "https://www.skydio.com/jobs/c3a4256a-4525-443c-81d0-6f69e7c24805/?gh_jid=c3a4256a-4525-443c-81d0-6f69e7c24805"
+  },
+  {
+    "job_id": "d023afe5-f19f-42f7-a1dd-aa94a361b86f",
+    "title": "Workplace Experience Coordinator Part-Time",
+    "meta": "Zurich, Switzerland - Part-time",
+    "department": "People & Recruiting",
+    "url": "https://www.skydio.com/jobs/d023afe5-f19f-42f7-a1dd-aa94a361b86f/?gh_jid=d023afe5-f19f-42f7-a1dd-aa94a361b86f"
+  },
+  {
+    "job_id": "b9f9047b-1555-4978-9bff-70eae58a6b17",
+    "title": "Aviation Compliance Lead",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Policy & Regulatory Affairs",
+    "url": "https://www.skydio.com/jobs/b9f9047b-1555-4978-9bff-70eae58a6b17/?gh_jid=b9f9047b-1555-4978-9bff-70eae58a6b17"
+  },
+  {
+    "job_id": "f749f019-6c19-44ee-be4e-8434d231b9bf",
+    "title": "CSM Manager - Public Safety (Major Markets)",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/f749f019-6c19-44ee-be4e-8434d231b9bf/?gh_jid=f749f019-6c19-44ee-be4e-8434d231b9bf"
+  },
+  {
+    "job_id": "04384b35-fe97-46ea-9d5d-befed9bce9a0",
+    "title": "Customer Success Manager, Commercial",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/04384b35-fe97-46ea-9d5d-befed9bce9a0/?gh_jid=04384b35-fe97-46ea-9d5d-befed9bce9a0"
+  },
+  {
+    "job_id": "3d4ac015-a6db-4a8d-9fec-557eb92eaf8d",
+    "title": "Customer Success Manager, DFR Majors - Southeast",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/3d4ac015-a6db-4a8d-9fec-557eb92eaf8d/?gh_jid=3d4ac015-a6db-4a8d-9fec-557eb92eaf8d"
+  },
+  {
+    "job_id": "5c7a2b78-99d8-44f4-8c51-258c331a331d",
+    "title": "Customer Success Manager, DFR Mid-Market - Northeast",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/5c7a2b78-99d8-44f4-8c51-258c331a331d/?gh_jid=5c7a2b78-99d8-44f4-8c51-258c331a331d"
+  },
+  {
+    "job_id": "6138ba1c-c048-407d-9ea2-7b51a3d38756",
+    "title": "Deployment Engineer - Southeast",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/6138ba1c-c048-407d-9ea2-7b51a3d38756/?gh_jid=6138ba1c-c048-407d-9ea2-7b51a3d38756"
+  },
+  {
+    "job_id": "501a3067-e906-4354-b211-ac70db6accf4",
+    "title": "Mission Success Operations Manager",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/501a3067-e906-4354-b211-ac70db6accf4/?gh_jid=501a3067-e906-4354-b211-ac70db6accf4"
+  },
+  {
+    "job_id": "29ee46f0-d9ea-4a59-a671-3bb024450d04",
+    "title": "Program Manager, Commercial Programs",
+    "meta": "US AR Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/29ee46f0-d9ea-4a59-a671-3bb024450d04/?gh_jid=29ee46f0-d9ea-4a59-a671-3bb024450d04"
+  },
+  {
+    "job_id": "f1554474-0c49-49f3-9847-33f52238fc4a",
+    "title": "Program Manager, DFR",
+    "meta": "US NY Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/f1554474-0c49-49f3-9847-33f52238fc4a/?gh_jid=f1554474-0c49-49f3-9847-33f52238fc4a"
+  },
+  {
+    "job_id": "9c3a9c61-4057-4df6-a1dc-9903d7fbc984",
+    "title": "Senior Manager, Training",
+    "meta": "US Remote - Full-time",
+    "department": "Professional Services and Training",
+    "url": "https://www.skydio.com/jobs/9c3a9c61-4057-4df6-a1dc-9903d7fbc984/?gh_jid=9c3a9c61-4057-4df6-a1dc-9903d7fbc984"
+  },
+  {
+    "job_id": "d6f731e8-c530-4123-8b52-0e7cab164887",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Finland)",
+    "meta": "Tampere, Finland - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/d6f731e8-c530-4123-8b52-0e7cab164887/?gh_jid=d6f731e8-c530-4123-8b52-0e7cab164887"
+  },
+  {
+    "job_id": "12e9a494-9a89-457c-9dc7-2ef9ccdba17c",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Germany)",
+    "meta": "Germany - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/12e9a494-9a89-457c-9dc7-2ef9ccdba17c/?gh_jid=12e9a494-9a89-457c-9dc7-2ef9ccdba17c"
+  },
+  {
+    "job_id": "1d4977a2-c2e7-44ad-820b-253ff8355800",
+    "title": "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Switzerland)",
+    "meta": "Zurich, Switzerland - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/1d4977a2-c2e7-44ad-820b-253ff8355800/?gh_jid=1d4977a2-c2e7-44ad-820b-253ff8355800"
+  },
+  {
+    "job_id": "e69362bc-5891-486e-be75-6bf25187ccf5",
+    "title": "Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM",
+    "meta": "US Remote - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/e69362bc-5891-486e-be75-6bf25187ccf5/?gh_jid=e69362bc-5891-486e-be75-6bf25187ccf5"
+  },
+  {
+    "job_id": "19559b4c-ed09-41eb-b1aa-f000a855b8fe",
+    "title": "Enterprise Account Manager, US Army",
+    "meta": "US Remote - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/19559b4c-ed09-41eb-b1aa-f000a855b8fe/?gh_jid=19559b4c-ed09-41eb-b1aa-f000a855b8fe"
+  },
+  {
+    "job_id": "2b3fea3b-e1b5-4497-9607-e9864019b0e7",
+    "title": "GTM Enablement Associate",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/2b3fea3b-e1b5-4497-9607-e9864019b0e7/?gh_jid=2b3fea3b-e1b5-4497-9607-e9864019b0e7"
+  },
+  {
+    "job_id": "c0a67a10-0cda-4892-b9a5-8eadda765587",
+    "title": "GTM Engineer, Pre-Sales",
+    "meta": "US CA San Mateo - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/c0a67a10-0cda-4892-b9a5-8eadda765587/?gh_jid=c0a67a10-0cda-4892-b9a5-8eadda765587"
+  },
+  {
+    "job_id": "6ceabf8d-b2de-4a15-9c17-7cc327efe8bd",
+    "title": "Order Management Analyst",
+    "meta": "US CA San Mateo - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/6ceabf8d-b2de-4a15-9c17-7cc327efe8bd/?gh_jid=6ceabf8d-b2de-4a15-9c17-7cc327efe8bd"
+  },
+  {
+    "job_id": "3a694691-50c2-43cf-b969-f40bad1d9e39",
+    "title": "Public Safety Strategist (West Coast, Midwest, or Pacific North West)",
+    "meta": "US Remote - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/3a694691-50c2-43cf-b969-f40bad1d9e39/?gh_jid=3a694691-50c2-43cf-b969-f40bad1d9e39"
+  },
+  {
+    "job_id": "02d54431-2747-417d-8234-e72c316fed87",
+    "title": "Revenue Operations Analyst, CPQ",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/02d54431-2747-417d-8234-e72c316fed87/?gh_jid=02d54431-2747-417d-8234-e72c316fed87"
+  },
+  {
+    "job_id": "05e9f029-3a9d-4956-a4c8-e0bc786dd86a",
+    "title": "Senior Revenue Operations Manager",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Sales",
+    "url": "https://www.skydio.com/jobs/05e9f029-3a9d-4956-a4c8-e0bc786dd86a/?gh_jid=05e9f029-3a9d-4956-a4c8-e0bc786dd86a"
+  },
+  {
+    "job_id": "730d728e-05a9-4acd-8ae6-cce6c0052d4f",
+    "title": "Equipment and Inventory Specialist (Part Time)",
+    "meta": "San Mateo, California, United States - jobListings.employmentTypes.Contract",
+    "department": "Solutions Engineering",
+    "url": "https://www.skydio.com/jobs/730d728e-05a9-4acd-8ae6-cce6c0052d4f/?gh_jid=730d728e-05a9-4acd-8ae6-cce6c0052d4f"
+  },
+  {
+    "job_id": "eb7fbbdb-3346-4f7f-a202-8bfd3441217a",
+    "title": "Director, Global Supply Management - Mechanicals",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/eb7fbbdb-3346-4f7f-a202-8bfd3441217a/?gh_jid=eb7fbbdb-3346-4f7f-a202-8bfd3441217a"
+  },
+  {
+    "job_id": "55b393cf-124c-46f8-bd83-8c62e3ce628b",
+    "title": "Hardware Operations Program Manager",
+    "meta": "Hayward, California, United States - Full-time",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/55b393cf-124c-46f8-bd83-8c62e3ce628b/?gh_jid=55b393cf-124c-46f8-bd83-8c62e3ce628b"
+  },
+  {
+    "job_id": "17b9ecf9-7a47-4811-b035-e1b9a54966aa",
+    "title": "Senior Business Operations Manager",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/17b9ecf9-7a47-4811-b035-e1b9a54966aa/?gh_jid=17b9ecf9-7a47-4811-b035-e1b9a54966aa"
+  },
+  {
+    "job_id": "2ffe6453-4a2f-4dfb-94f8-882f731a11ae",
+    "title": "Staff Global Supply Manager,  Mechanicals",
+    "meta": "San Mateo, California, United States - Full-time",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/2ffe6453-4a2f-4dfb-94f8-882f731a11ae/?gh_jid=2ffe6453-4a2f-4dfb-94f8-882f731a11ae"
+  },
+  {
+    "job_id": "4c4874bf-02da-4ccc-8918-2cca08feaf21",
+    "title": "Supplier Quality Engineer, Sustaining",
+    "meta": "Taiwan - Full-time",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/4c4874bf-02da-4ccc-8918-2cca08feaf21/?gh_jid=4c4874bf-02da-4ccc-8918-2cca08feaf21"
+  },
+  {
+    "job_id": "2d21f482-3224-4906-a1bb-6a64436774cb",
+    "title": "Supply Chain Intern",
+    "meta": "Supply Chain Intern",
+    "department": "Supply Chain & Logistics",
+    "url": "https://www.skydio.com/jobs/2d21f482-3224-4906-a1bb-6a64436774cb/?gh_jid=2d21f482-3224-4906-a1bb-6a64436774cb"
+  }
+]
