@@ -1,0 +1,707 @@
+{
+  "total_jobs": 118,
+  "real_headings_used_in": [
+    "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(San Mateo, California, United States)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+    "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+    "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+    "Engineering Program Manager *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Senior Technical Support Representative - Japan *(Tokyo, Japan)*",
+    "Full Stack Product Counsel *(San Mateo, California, United States)*",
+    "Senior Buyer *(Hayward, California, United States)*",
+    "Communications Manager *(US Remote)*",
+    "Logistics Operations Specialist, HQ *(San Mateo, California, United States)*",
+    "Aviation Compliance Lead *(San Mateo, California, United States)*",
+    "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+    "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+    "Senior Business Operations Manager *(San Mateo, California, United States)*"
+  ],
+  "inline_styles_used_in": [],
+  "extra_classes_used_in": [
+    "Autonomy Engineer - Deep Learning Infrastructure *(San Mateo, California, United States)*",
+    "Autonomy Engineer - Deep Learning Model Acceleration *(San Mateo, California, United States)*",
+    "Autonomy Software Engineer *(San Mateo, California, United States)*",
+    "Engineering Manager - Autonomy *(San Mateo, California, United States)*",
+    "Senior Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Staff Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter - Hardware Operations *(San Mateo, California, United States)*",
+    "Staff Technical Recruiter *(San Mateo, California, United States)*"
+  ],
+  "trailing_period_bullets_in": [
+    "Autonomy Engineer - Fixed Wing Planning & Controls *(San Mateo, California, United States)*",
+    "Autonomy Engineer - ML & DL Infrastructure *(Zurich, Switzerland)*",
+    "Autonomy Engineer - ML & DL Infrastructure *(San Mateo, California, United States)*",
+    "Autonomy Engineer Intern - Deep Learning (Computational Photography) *(Zurich, Switzerland)*",
+    "Autonomy Engineer Intern - Deep Learning (Computational Photography) *(San Mateo, California, United States)*",
+    "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) *(Zurich, Switzerland)*",
+    "Senior Autonomy Engineer, Data Curation *(San Mateo, California, United States)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(San Mateo, California, United States)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+    "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+    "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+    "RF Design Engineer *(San Mateo, California, United States)*",
+    "Senior Wireless Systems Performance Engineer *(San Mateo, California, United States)*",
+    "Wireless Software Engineer *(San Mateo, California, United States)*",
+    "Electrical Engineer (Sustaining/Validation) *(San Mateo, California, United States)*",
+    "Electrical Engineer (all levels) *(San Mateo, California, United States)*",
+    "Engineering Program Manager *(San Mateo, California, United States)*",
+    "Lead Staff Electrical Engineer *(San Mateo, California, United States)*",
+    "PCB Layout Engineer *(San Mateo, California, United States)*",
+    "Product Design Engineer (All Levels) *(San Mateo, California, United States)*",
+    "Senior RF Design Engineer *(San Mateo, California, United States)*",
+    "Systems Integration and Test Engineer (Mid to Senior Level) *(San Mateo, California, United States)*",
+    "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Senior Software Engineer,  Infrastructure *(San Mateo, California, United States)*",
+    "Software Engineer - Infrastructure *(San Mateo, California, United States)*",
+    "Middleware Software Engineer Intern - Fall 2026 *(San Mateo, California, United States)*",
+    "Senior Engineering Manager, Infrastructure *(San Mateo, California, United States)*",
+    "Senior Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Senior Software Engineer,  Data Platform *(San Mateo, California, United States)*",
+    "Senior Software Engineer, Frontend *(San Mateo, California, United States)*",
+    "Senior Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Senior/Staff Embedded Software Engineer \u2013 Camera Systems *(San Mateo, California, United States)*",
+    "Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Software Engineer Intern Fall 2026/Winter 2027 *(San Mateo, California, United States)*",
+    "Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Sr/Staff Embedded Software Engineer - Camera Systems *(Tampere, Finland)*",
+    "Staff Software Engineer - Embedded *(San Mateo, California, United States)*",
+    "Staff Software Engineer, Frontend *(San Mateo, California, United States)*",
+    "Staff Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Field Service Technician *(US CA San Mateo)*",
+    "Field Support Representative *(US Remote)*",
+    "Field Support Representative - New York *(US NY Remote)*",
+    "Field Support Representative (Southwest, Remote) *(US Remote)*",
+    "Manager, Technical Support *(San Mateo, California, United States)*",
+    "Product Support Engineer *(San Mateo, California, United States)*",
+    "Senior Customer Support Representative - India *(Bangalore, India)*",
+    "Senior Technical Support Representative - Japan *(Tokyo, Japan)*",
+    "IT Technician (Help Desk - Linux Focus) *(Hayward, California, United States)*",
+    "Manager, Logistics *(Hayward, California, United States)*",
+    "Production Planner, Nightshift *(Hayward, California, United States)*",
+    "Senior Buyer *(Hayward, California, United States)*",
+    "Senior Materials Program Manager *(San Mateo, California, United States)*",
+    "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+    "Manufacturing Execution System Analyst *(Hayward, California, United States)*",
+    "Logistics Operations Specialist, HQ *(San Mateo, California, United States)*",
+    "Staff Technical Recruiter *(San Mateo, California, United States)*",
+    "Aviation Compliance Lead *(San Mateo, California, United States)*",
+    "CSM Manager - Public Safety (Major Markets) *(US Remote)*",
+    "Customer Success Manager, Commercial *(US Remote)*",
+    "Customer Success Manager, DFR Majors - Southeast *(US Remote)*",
+    "Customer Success Manager, DFR Mid-Market - Northeast *(US Remote)*",
+    "Deployment Engineer - Southeast *(US Remote)*",
+    "Mission Success Operations Manager *(US Remote)*",
+    "Program Manager, Commercial Programs *(US AR Remote)*",
+    "Program Manager, DFR *(US NY Remote)*",
+    "Senior Manager, Training *(US Remote)*",
+    "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+    "Order Management Analyst *(US CA San Mateo)*",
+    "Public Safety Strategist (West Coast, Midwest, or Pacific North West) *(US Remote)*",
+    "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+    "Equipment and Inventory Specialist (Part Time) *(San Mateo, California, United States)*",
+    "Hardware Operations Program Manager *(Hayward, California, United States)*",
+    "Staff Global Supply Manager,  Mechanicals *(San Mateo, California, United States)*",
+    "Supplier Quality Engineer, Sustaining *(Taiwan)*",
+    "Supply Chain Intern *(San Mateo, California, United States)*"
+  ],
+  "leading_bold_bullets_in": [
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(Zurich, Switzerland)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(San Mateo, California, United States)*",
+    "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(San Mateo, California, United States)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+    "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+    "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+    "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Senior Engineering Manager, Infrastructure *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Manager, Technical Support *(San Mateo, California, United States)*",
+    "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter - Hardware Operations *(San Mateo, California, United States)*",
+    "Program Manager, Commercial Programs *(US AR Remote)*",
+    "Program Manager, DFR *(US NY Remote)*",
+    "Public Safety Strategist (West Coast, Midwest, or Pacific North West) *(US Remote)*",
+    "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+    "Hardware Operations Program Manager *(Hayward, California, United States)*"
+  ],
+  "ordered_lists_used_in": [],
+  "nested_lists_used_in": [
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(Zurich, Switzerland)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(San Mateo, California, United States)*",
+    "IT Technician (Help Desk - Linux Focus) *(Hayward, California, United States)*",
+    "Mission Success Operations Manager *(US Remote)*",
+    "Public Safety Strategist (West Coast, Midwest, or Pacific North West) *(US Remote)*"
+  ],
+  "br_tags_used_in": [
+    "Autonomy Engineer - Deep Learning *(Zurich, Switzerland)*",
+    "Autonomy Engineer - Deep Learning Infrastructure *(San Mateo, California, United States)*",
+    "Autonomy Engineer - Deep Learning Infrastructure *(Zurich, Switzerland)*",
+    "Autonomy Engineer - Deep Learning Model Acceleration *(Zurich, Switzerland)*",
+    "Autonomy Engineer - Deep Learning Model Acceleration *(San Mateo, California, United States)*",
+    "Autonomy Engineer - Planning and Controls *(Zurich, Switzerland)*",
+    "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 *(Zurich, Switzerland)*",
+    "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 *(San Mateo, California, United States)*",
+    "Autonomy Software Engineer *(San Mateo, California, United States)*",
+    "Engineering Manager - Autonomy *(San Mateo, California, United States)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(Zurich, Switzerland)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(San Mateo, California, United States)*",
+    "Senior Autonomy Engineer - Deep Learning *(Zurich, Switzerland)*",
+    "Senior Autonomy Engineer - Deep Learning *(San Mateo, California, United States)*",
+    "Electrical Engineer (Sustaining/Validation) *(San Mateo, California, United States)*",
+    "Electrical Engineer (all levels) *(San Mateo, California, United States)*",
+    "Lead Staff Electrical Engineer *(San Mateo, California, United States)*",
+    "PCB Layout Engineer *(San Mateo, California, United States)*",
+    "Product Design Engineer (All Levels) *(San Mateo, California, United States)*",
+    "Director of Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+    "Senior Director, Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+    "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Senior Software Engineer,  Data Platform *(San Mateo, California, United States)*",
+    "Senior Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Software Engineer Intern Fall 2026/Winter 2027 *(San Mateo, California, United States)*",
+    "Field Service Technician *(US CA San Mateo)*",
+    "Product Support Engineer *(San Mateo, California, United States)*",
+    "Senior Technical Support Representative - Japan *(Tokyo, Japan)*",
+    "IT Technician (Help Desk - Linux Focus) *(Hayward, California, United States)*",
+    "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter *(San Mateo, California, United States)*",
+    "Senior Technical Recruiter - Hardware Operations *(San Mateo, California, United States)*",
+    "Workplace Experience Coordinator Part-Time *(Zurich, Switzerland)*",
+    "Aviation Compliance Lead *(San Mateo, California, United States)*",
+    "Senior Manager, Training *(US Remote)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Finland) *(Tampere, Finland)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Germany) *(Germany)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Switzerland) *(Zurich, Switzerland)*",
+    "GTM Enablement Associate *(San Mateo, California, United States)*",
+    "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+    "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+    "Staff Global Supply Manager,  Mechanicals *(San Mateo, California, United States)*",
+    "Supply Chain Intern *(San Mateo, California, United States)*"
+  ],
+  "empty_paragraphs_in": [
+    "Autonomy Engineer - Deep Learning Infrastructure *(San Mateo, California, United States)*",
+    "Autonomy Engineer - ML & DL Infrastructure *(Zurich, Switzerland)*",
+    "Autonomy Engineer - ML & DL Infrastructure *(San Mateo, California, United States)*",
+    "Senior Autonomy Engineer - Deep Learning *(San Mateo, California, United States)*",
+    "Senior Autonomy Engineer, Data Curation *(San Mateo, California, United States)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(Zurich, Switzerland)*",
+    "Software Engineer - Autonomy Infrastructure, Systems and Tools *(San Mateo, California, United States)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+    "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+    "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+    "Wireless Software Engineer *(San Mateo, California, United States)*",
+    "Engineering Program Manager *(San Mateo, California, United States)*",
+    "Lead Staff Electrical Engineer *(San Mateo, California, United States)*",
+    "Senior RF Design Engineer *(San Mateo, California, United States)*",
+    "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Middleware Software Engineer Intern - Fall 2026 *(San Mateo, California, United States)*",
+    "Senior Software Engineer - Mobile Platform *(San Mateo, California, United States)*",
+    "Senior Software Engineer, Frontend *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Senior/Staff Embedded Software Engineer \u2013 Camera Systems *(San Mateo, California, United States)*",
+    "Software Engineer Intern Fall 2026/Winter 2027 *(San Mateo, California, United States)*",
+    "Sr/Staff Embedded Software Engineer - Camera Systems *(Tampere, Finland)*",
+    "Staff Software Engineer, Frontend *(San Mateo, California, United States)*",
+    "Field Support Representative - New York *(US NY Remote)*",
+    "Field Support Representative (Southwest, Remote) *(US Remote)*",
+    "Product Support Engineer *(San Mateo, California, United States)*",
+    "Senior Customer Support Representative - India *(Bangalore, India)*",
+    "Senior Technical Support Representative - Japan *(Tokyo, Japan)*",
+    "IT Technician (Help Desk - Linux Focus) *(Hayward, California, United States)*",
+    "Full Stack Product Counsel *(San Mateo, California, United States)*",
+    "Manager, Logistics *(Hayward, California, United States)*",
+    "Production Planner, Nightshift *(Hayward, California, United States)*",
+    "Senior Buyer *(Hayward, California, United States)*",
+    "Senior Materials Program Manager *(San Mateo, California, United States)*",
+    "Communications Manager *(US Remote)*",
+    "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+    "Manufacturing Execution System Analyst *(Hayward, California, United States)*",
+    "Logistics Operations Specialist, HQ *(San Mateo, California, United States)*",
+    "Workplace Experience Coordinator Part-Time *(Zurich, Switzerland)*",
+    "Aviation Compliance Lead *(San Mateo, California, United States)*",
+    "CSM Manager - Public Safety (Major Markets) *(US Remote)*",
+    "Customer Success Manager, Commercial *(US Remote)*",
+    "Customer Success Manager, DFR Mid-Market - Northeast *(US Remote)*",
+    "Deployment Engineer - Southeast *(US Remote)*",
+    "Program Manager, Commercial Programs *(US AR Remote)*",
+    "Program Manager, DFR *(US NY Remote)*",
+    "Senior Manager, Training *(US Remote)*",
+    "GTM Enablement Associate *(San Mateo, California, United States)*",
+    "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+    "Order Management Analyst *(US CA San Mateo)*",
+    "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+    "Senior Revenue Operations Manager *(San Mateo, California, United States)*",
+    "Equipment and Inventory Specialist (Part Time) *(San Mateo, California, United States)*",
+    "Director, Global Supply Management - Mechanicals *(San Mateo, California, United States)*",
+    "Hardware Operations Program Manager *(Hayward, California, United States)*",
+    "Senior Business Operations Manager *(San Mateo, California, United States)*",
+    "Staff Global Supply Manager,  Mechanicals *(San Mateo, California, United States)*",
+    "Supplier Quality Engineer, Sustaining *(Taiwan)*"
+  ],
+  "nbsp_used_in": [
+    "Autonomy Engineer - Deep Learning *(San Mateo, California, United States)*",
+    "Autonomy Engineer - Deep Learning *(Zurich, Switzerland)*",
+    "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 *(Zurich, Switzerland)*",
+    "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 *(San Mateo, California, United States)*",
+    "Autonomy Engineer Intern Fall 2026 *(San Mateo, California, United States)*",
+    "Autonomy Engineer Intern Fall 2026 *(Zurich, Switzerland)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(Zurich, Switzerland)*",
+    "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision *(San Mateo, California, United States)*",
+    "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) *(Zurich, Switzerland)*",
+    "Senior Wireless Systems Performance Engineer *(San Mateo, California, United States)*",
+    "Field Support Representative (Southwest, Remote) *(US Remote)*"
+  ],
+  "em_dashes_used_in": [
+    "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+    "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+    "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+    "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+    "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+    "Senior Software Engineer - Mobile Platform *(San Mateo, California, United States)*",
+    "Senior Software Engineer,  Data Platform *(San Mateo, California, United States)*",
+    "Senior Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+    "Staff Software Engineer, Full Stack *(San Mateo, California, United States)*",
+    "Field Support Representative - New York *(US NY Remote)*",
+    "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+    "Workplace Experience Coordinator Part-Time *(Zurich, Switzerland)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Finland) *(Tampere, Finland)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Germany) *(Germany)*",
+    "Enterprise Account Manager (MoD/ MoI) \u2013 EMEA (Switzerland) *(Zurich, Switzerland)*",
+    "Enterprise Account Manager,  US Navy, US Marine Corps, and IC/SOCOM *(US Remote)*",
+    "Enterprise Account Manager, US Army *(US Remote)*",
+    "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+    "Director, Global Supply Management - Mechanicals *(San Mateo, California, United States)*"
+  ],
+  "missing_standard_sections": [
+    {
+      "title": "Autonomy Engineer - Deep Learning Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Autonomy Engineer - Deep Learning Infrastructure *(Zurich, Switzerland)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Autonomy Engineer - Deep Learning Model Acceleration *(Zurich, Switzerland)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Autonomy Engineer - Deep Learning Model Acceleration *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Autonomy Engineer - Planning and Controls *(Zurich, Switzerland)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Autonomy Software Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Senior Autonomy Engineer - Deep Learning *(Zurich, Switzerland)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Senior Autonomy Engineer - Deep Learning *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools *(Zurich, Switzerland)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Software Engineer - Autonomy Infrastructure, Systems and Tools *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Software Engineer - Cloud Simulation & Full-Stack *(Zurich, Switzerland)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Software Engineer - Cloud Simulation & Full-Stack *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Software Engineer - Simulation & Robotics Engineer *(Zurich, Switzerland)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Software Engineer - Simulation & Robotics Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Electrical Engineer (Sustaining/Validation) *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Electrical Engineer (all levels) *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Lead Staff Electrical Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "PCB Layout Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Product Design Engineer (All Levels) *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Senior Hardware Test and Reliability Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Systems Integration and Test Engineer (Mid to Senior Level) *(San Mateo, California, United States)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Director of Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Senior Director, Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer,  Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Software Engineer - Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Senior Engineering Manager, Infrastructure *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Software Engineer Intern Fall 2026/Winter 2027 *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Full Stack *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Field Service Technician *(US CA San Mateo)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Product Support Engineer *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact",
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "IT Technician (Help Desk - Linux Focus) *(Hayward, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact",
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Director, Growth Marketing - Commercial *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Logistics Operations Specialist, HQ *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact",
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Senior Technical Recruiter *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Senior Technical Recruiter - Hardware Operations *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Workplace Experience Coordinator Part-Time *(Zurich, Switzerland)*",
+      "missing": [
+        "About the role",
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Customer Success Manager, Commercial *(US Remote)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Customer Success Manager, DFR Mid-Market - Northeast *(US Remote)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Mission Success Operations Manager *(US Remote)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Program Manager, Commercial Programs *(US AR Remote)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Senior Manager, Training *(US Remote)*",
+      "missing": [
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "GTM Enablement Associate *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role"
+      ]
+    },
+    {
+      "title": "Revenue Operations Analyst, CPQ *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Equipment and Inventory Specialist (Part Time) *(San Mateo, California, United States)*",
+      "missing": [
+        "About the role",
+        "How you'll make an impact",
+        "What makes you a good fit"
+      ]
+    },
+    {
+      "title": "Director, Global Supply Management - Mechanicals *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    },
+    {
+      "title": "Supply Chain Intern *(San Mateo, California, United States)*",
+      "missing": [
+        "How you'll make an impact"
+      ]
+    }
+  ],
+  "label_variants_per_standard": {
+    "About the role": {
+      "About the role": 55,
+      "About the Role": 35,
+      "About the Team": 10,
+      "About the team": 6
+    },
+    "How you'll make an impact": {
+      "How you'll make an impact": 43,
+      "How You\u2019ll Make an Impact": 23,
+      "How you\u2019ll make an impact": 18,
+      "How you will make an impact": 4,
+      "How You'll Make an Impact": 1
+    },
+    "What makes you a good fit": {
+      "What makes you a good fit": 57,
+      "What Makes You a Good Fit": 23,
+      "What would make you a good fit": 7,
+      "What makes you a strong fit": 6,
+      "What You\u2019ll Do": 6,
+      "What would make you a strong fit": 2,
+      "What makes this internship different": 1,
+      "What Makes You a Great Fit": 1,
+      "What Success Looks Like": 1,
+      "What Would Make You a Good Fit": 1,
+      "What You'll Work On": 1,
+      "What Makes You A Good Fit": 1,
+      "What you\u2019ll drive (scope)": 1,
+      "What you\u2019ll bring": 1,
+      "What you will do": 1
+    }
+  },
+  "median_body_chars": 3534,
+  "avg_body_chars": 3622,
+  "shortest_postings": [
+    [
+      "Senior Autonomy Engineer - Controls *(San Mateo, California, United States)*",
+      1706
+    ],
+    [
+      "Electrical Engineer (all levels) *(San Mateo, California, United States)*",
+      1718
+    ],
+    [
+      "Autonomy Engineer - Fixed Wing Planning & Controls *(San Mateo, California, United States)*",
+      1790
+    ],
+    [
+      "Electrical Engineer (Sustaining/Validation) *(San Mateo, California, United States)*",
+      2083
+    ],
+    [
+      "Senior Autonomy Engineer - Deep Learning *(San Mateo, California, United States)*",
+      2184
+    ],
+    [
+      "Lead Staff Electrical Engineer *(San Mateo, California, United States)*",
+      2187
+    ],
+    [
+      "Manufacturing Execution System Analyst *(Hayward, California, United States)*",
+      2262
+    ],
+    [
+      "Software Engineer, Full Stack *(San Mateo, California, United States)*",
+      2272
+    ]
+  ],
+  "longest_postings": [
+    [
+      "Senior Director, Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+      6124
+    ],
+    [
+      "Director of Product Management, Drone as First Responder (DFR) *(San Mateo, California, United States)*",
+      6117
+    ],
+    [
+      "Staff Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+      5745
+    ],
+    [
+      "Senior Product Manager, Platform & Infrastructure *(San Mateo, California, United States)*",
+      5634
+    ],
+    [
+      "Senior Wireless Software Engineer, National Security *(San Mateo, California, United States)*",
+      5610
+    ],
+    [
+      "Manager, Technical Support *(San Mateo, California, United States)*",
+      5408
+    ],
+    [
+      "Field Support Representative - New York *(US NY Remote)*",
+      5401
+    ],
+    [
+      "GTM Engineer, Pre-Sales *(US CA San Mateo)*",
+      5396
+    ]
+  ]
+}
